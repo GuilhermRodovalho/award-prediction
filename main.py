@@ -1,9 +1,9 @@
 #main.py
 
 from requests_html import HTMLSession
-from sqlalchemy import create_engine
 
-def get_reviews(sess, url):    
+def get_reviews(url): 
+    sess = HTMLSession()   
     reviews_list = {"reviews":[], 'url':url}
     res = sess.get(url)
     html = res.html
@@ -29,7 +29,7 @@ url = 'https://www.metacritic.com/movie/whiplash/user-reviews?sort-by=date&num_i
 
 
 if __name__ == '__main__':
-    sess = HTMLSession()
+    
     db = create_engine('postgresql://postgres:123456@localhost:5445/tcc', echo = True)
     result_set = db.execute("SELECT * FROM filme")  
     for r in result_set:  
