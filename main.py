@@ -29,8 +29,4 @@ url = 'https://www.metacritic.com/movie/whiplash/user-reviews?sort-by=date&num_i
 
 
 if __name__ == '__main__':
-    
-    db = create_engine('postgresql://postgres:123456@localhost:5445/tcc', echo = True)
-    result_set = db.execute("SELECT * FROM filme")  
-    for r in result_set:  
-        print(r['nome'])
+    get_reviews(url)
