@@ -1,0 +1,84 @@
+year_film,year_award,nominee,win
+2006,15/01/2007,Babel,True
+2006,15/01/2007,Bobby,False
+2006,15/01/2007,The Departed,False
+2006,15/01/2007,Little Children,False
+2006,15/01/2007,The Queen,False
+2007,16/01/2008,Atonement,True
+2007,16/01/2008,Michael Clayton,False
+2007,16/01/2008,No Country for Old Men,False
+2007,16/01/2008,There Will Be Blood,False
+2007,16/01/2008,American Gangster,False
+2007,16/01/2008,Eastern Promises,False
+2007,16/01/2008,The Great Debaters,False
+2008,11/01/2009,Slumdog Millionaire,True
+2008,11/01/2009,The Curious Case of Benjamin Button,False
+2008,11/01/2009,Frost/Nixon,False
+2008,11/01/2009,The Reader,False
+2008,11/01/2009,Revolutionary Road,False
+2009,17/01/2010,Avatar,True
+2009,17/01/2010,The Hurt Locker,False
+2009,17/01/2010,Inglourious Basterds,False
+2009,17/01/2010,Precious: Based On The Novel Push By Sapphire,False
+2009,17/01/2010,Up In The Air,False
+2010,16/01/2011,The Social Network,True
+2010,16/01/2011,Black Swan,False
+2010,16/01/2011,The Fighter,False
+2010,16/01/2011,Inception,False
+2010,16/01/2011,The King's Speech,False
+2011,15/01/2012,The Descendants,True
+2011,15/01/2012,Moneyball,False
+2011,15/01/2012,War Horse,False
+2011,15/01/2012,The Help,False
+2011,15/01/2012,Hugo,False
+2011,15/01/2012,The Ides of March,False
+2012,13/01/2013,Argo,True
+2012,13/01/2013,Life of Pi,False
+2012,13/01/2013,Lincoln,False
+2012,13/01/2013,Zero Dark Thirty,False
+2012,13/01/2013,Django Unchained,False
+2013,12/01/2014,12 Years a Slave,True
+2013,12/01/2014,Captain Phillips,False
+2013,12/01/2014,Gravity,False
+2013,12/01/2014,Philomena,False
+2013,12/01/2014,Rush,False
+2014,11/01/2015,Boyhood,True
+2014,11/01/2015,The Imitation Game,False
+2014,11/01/2015,Selma,False
+2014,11/01/2015,Foxcatcher,False
+2014,11/01/2015,The Theory of Everything,False
+2015,10/01/2016,The Revenant,True
+2015,10/01/2016,Carol,False
+2015,10/01/2016,Mad Max: Fury Road,False
+2015,10/01/2016,Room,False
+2015,10/01/2016,Spotlight,False
+2016,08/01/2017,Moonlight,True
+2016,08/01/2017,Hell or High Water,False
+2016,08/01/2017,Lion,False
+2016,08/01/2017,Manchester by the Sea,False
+2016,08/01/2017,Hacksaw Ridge,False
+2017,07/01/2018,Three Billboards Outside Ebbing Missouri,True
+2017,07/01/2018,Call Me By Your Name,False
+2017,07/01/2018,Dunkirk,False
+2017,07/01/2018,The Post,False
+2017,07/01/2018,The Shape of Water,False
+2018,06/01/2019,Bohemian Rhapsody,True
+2018,06/01/2019,BlacKkKlansman,False
+2018,06/01/2019,If Beale Street Could Talk,False
+2018,06/01/2019,A Star Is Born,False
+2018,06/01/2019,Black Panther,False
+2019,05/01/2020,1917,True
+2019,05/01/2020,The Irishman,False
+2019,05/01/2020,Joker,False
+2019,05/01/2020,Marriage Story,False
+2019,05/01/2020,The Two Popes,False
+2021,28/01/21,The Father,False
+2020,28/01/21,Mank,False
+2020,28/01/21,Promising Young Woman,False
+2020,28/01/21,The Trial of the Chicago 7,False
+2020,28/01/21,Nomadland,True
+2021,10/01/22,Belfast,False
+2021,10/01/22,CODA,False
+2021,10/01/22,Dune part one,False
+2021,10/01/22,King Richard,False
+2021,10/01/22,The power of the dog,True
