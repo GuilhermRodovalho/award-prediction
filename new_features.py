@@ -131,6 +131,61 @@ def plotScatter():
         plt.show()
 
 
+def plot3DScatter():
+    with open('oscar_movies_statistics.json', 'r') as json_file:
+        movies = json.load(json_file)
+
+        fig = plt.figure()
+        ax = plt.axes(projection='3d')
+
+        medias_critic = ([], [])
+        medianas_critic = ([], [])
+        stdev_critic = ([], [])
+
+        medias_user = ([], [])
+        medianas_user = ([], [])
+        stdev_user = ([], [])
+
+        for movie in movies:
+            if movies[movie]['winner'] == "True":
+                medias_critic[0].append(movies[movie]['critic-mean'])
+                medianas_critic[0].append(movies[movie]['critic-median'])
+                stdev_critic[0].append(movies[movie]['critic-stdev'])
+
+                medias_user[0].append(movies[movie]['user-mean'])
+                medianas_user[0].append(movies[movie]['user-median'])
+                stdev_user[0].append(movies[movie]['user-stdev'])
+            else:
+                medias_critic[1].append(movies[movie]['critic-mean'])
+                medianas_critic[1].append(movies[movie]['critic-median'])
+                stdev_critic[1].append(movies[movie]['critic-stdev'])
+
+                medias_user[1].append(movies[movie]['user-mean'])
+                medianas_user[1].append(movies[movie]['user-median'])
+                stdev_user[1].append(movies[movie]['user-stdev'])
+
+        ax.scatter3D(medias_critic[0], medianas_critic[0],
+                     stdev_critic[0], label='Ganhador')
+        ax.scatter3D(medias_critic[1], medianas_critic[1],
+                     stdev_critic[1], label="Perdedor")
+
+        # ax.scatter3D(medias_user[0], medianas_user[0],
+        #              stdev_user[0], label='Ganhador')
+        # ax.scatter3D(medias_user[1], medianas_user[1],
+        #              stdev_user[1], label="Perdedor")
+
+        ax.legend()
+
+        ax.set_title('Críticos')
+        # ax.set_title('Usuários')
+
+        ax.set_xlabel('Média')
+        ax.set_ylabel('Mediana')
+        ax.set_zlabel('Desvio Padrão')
+
+        plt.show()
+
+
 def generateFeatures():
     with open('oscar_movies_data.json', 'r') as json_file, open('oscar_movies_statistics.json', 'w') as output_file:
         movies = json.load(json_file)
@@ -151,4 +206,4 @@ def generateFeatures():
 
 
 if __name__ == '__main__':
-    plotScatter()
+    plot3DScatter()
