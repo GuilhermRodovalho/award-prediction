@@ -86,9 +86,9 @@ def processaArquivoCriticReview(film, film_year, oscar_date):
 
 
 if __name__ == '__main__':
-    with open('golden_globe_awards.csv') as csv_file, open('golden_globe_movies_data.json', 'w') as movies_file:
+    with open('golden_globe_2023.csv') as csv_file, open('golden_globe_movies_2023_data.json', 'w') as movies_file:
         movies_dict = dict()
-        csv_reader = csv.reader(csv_file, delimiter=',')
+        csv_reader = csv.reader(csv_file, delimiter=';')
         line_count = 0
         try:
             for row in csv_reader:

@@ -1,0 +1,112 @@
+{
+    "Everything Everywhere All at once": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "TRUE",
+        "user-mean": 8.11,
+        "user-stdev": 2.8951195435969774,
+        "user-median": 9.5,
+        "critic-mean": 82.94444444444444,
+        "critic-stdev": 14.860885301679895,
+        "critic-median": 88.0
+    },
+    "ALL QUIET ON THE WESTERN FRONT": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 7.2,
+        "user-stdev": 3.1490739379485304,
+        "user-median": 8,
+        "critic-mean": 78.43243243243244,
+        "critic-stdev": 12.796571894544735,
+        "critic-median": 80
+    },
+    "AVATAR: THE WAY OF WATER": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 6.934065934065934,
+        "user-stdev": 3.0103606199708137,
+        "user-median": 8,
+        "critic-mean": 70.20588235294117,
+        "critic-stdev": 18.441969350863573,
+        "critic-median": 75.0
+    },
+    "THE BANSHEES OF INISHERIN": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 6.379310344827586,
+        "user-stdev": 3.1215128326713666,
+        "user-median": 8,
+        "critic-mean": 86.79032258064517,
+        "critic-stdev": 12.749975373520664,
+        "critic-median": 90.0
+    },
+    "ELVIS": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 7.3023255813953485,
+        "user-stdev": 2.623473558189693,
+        "user-median": 8,
+        "critic-mean": 66.88333333333334,
+        "critic-stdev": 18.259979084275866,
+        "critic-median": 70.0
+    },
+    "THE FABELMANS": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 6.9375,
+        "user-stdev": 3.17214438511238,
+        "user-median": 8.0,
+        "critic-mean": 83.15384615384616,
+        "critic-stdev": 12.903767338977465,
+        "critic-median": 83
+    },
+    "TAR": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 5.7272727272727275,
+        "user-stdev": 3.3120532860594154,
+        "user-median": 5.5,
+        "critic-mean": 89.20338983050847,
+        "critic-stdev": 13.163140361365073,
+        "critic-median": 90
+    },
+    "TOP GUN: MAVERICK": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 9.07531380753138,
+        "user-stdev": 1.5699975264451358,
+        "user-median": 10,
+        "critic-mean": 79.63492063492063,
+        "critic-stdev": 12.968076917770517,
+        "critic-median": 80
+    },
+    "TRIANGLE OF SADNESS": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 6.25,
+        "user-stdev": 3.306691779757495,
+        "user-median": 7.5,
+        "critic-mean": 68.51063829787235,
+        "critic-stdev": 21.31938527993135,
+        "critic-median": 75
+    },
+    "WOMEN TALKING": {
+        "year": "2022",
+        "cerimony-date": "12/03/2023",
+        "winner": "FALSE",
+        "user-mean": 7,
+        "user-stdev": 2.23606797749979,
+        "user-median": 7,
+        "critic-mean": 78.48936170212765,
+        "critic-stdev": 17.485238917970246,
+        "critic-median": 80
+    }
+}

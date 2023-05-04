@@ -187,7 +187,7 @@ def plot3DScatter():
 
 
 def generateFeatures():
-    with open('oscar_movies_data.json', 'r') as json_file, open('oscar_movies_statistics.json', 'w') as output_file:
+    with open('golden_globe_movies_2023_data.json', 'r') as json_file, open('golden_globe_movies_2023_statistics.json', 'w') as output_file:
         movies = json.load(json_file)
         for movie in movies:
             user_reviews = list(map(int, movies[movie]['user-review']))
@@ -206,4 +206,4 @@ def generateFeatures():
 
 
 if __name__ == '__main__':
-    plot3DScatter()
+    generateFeatures()

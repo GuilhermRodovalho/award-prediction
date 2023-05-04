@@ -11,37 +11,41 @@ from sklearn.metrics import (
 import matplotlib.pyplot as plt
 
 
+def generateTrainAndTest(movies):
+    with open('oscars_train_test.json', 'w') as output_file:
+        df = pd.DataFrame.from_dict(movies, orient='index')
+        df.drop('year', axis=1, inplace=True)
+        df.drop('cerimony-date', axis=1, inplace=True)
+        X_train, X_test, y_train, y_test = train_test_split(
+            df.drop('winner', axis=1), df['winner'], test_size=0.2, stratify=df['winner'])
+        json.dump({'x_train': X_train.to_dict('tight'), 'x_test': X_test.to_dict('tight'),
+                  'y_train': y_train.to_dict(), 'y_test': y_test.to_dict()}, output_file)
+
+
 def naiveBayes(movies):
-    df = pd.DataFrame.from_dict(movies, orient='index')
-    df.drop('year', axis=1, inplace=True)
-    df.drop('cerimony-date', axis=1, inplace=True)
-    df.drop('user-mean', axis=1, inplace=True)
-    df.drop('user-stdev', axis=1, inplace=True)
-    df.drop('user-median', axis=1, inplace=True)
-    X_train, X_test, y_train, y_test = train_test_split(
-        df.drop('winner', axis=1), df['winner'], test_size=0.2)
+    with open('oscars_train_test.json', 'r') as train_file:
+        file_json = json.load(train_file)
+        X_train = pd.DataFrame.from_dict(file_json['x_train'], orient='tight')
+        X_test = pd.DataFrame.from_dict(file_json['x_test'], orient='tight')
+        y_train = pd.Series(file_json['y_train'])
+        y_test = pd.Series(file_json['y_test'])
 
-    model = GaussianNB()
+        model = GaussianNB()
 
-    model.fit(X_train, y_train)
+        model.fit(X_train, y_train)
 
-    y_pred = model.predict(X_test)
-    accuray = accuracy_score(y_pred, y_test)
-    f1 = f1_score(y_pred, y_test, average="micro")
+        y_pred = model.predict(X_test)
+        accuray = accuracy_score(y_pred, y_test)
+        f1 = f1_score(y_pred, y_test, average="micro")
 
-    print("Accuracy:", accuray)
-    print("F1 Score:", f1)
+        print("Accuracy:", accuray)
+        print("F1 Score:", f1)
 
-    cm = confusion_matrix(y_test, y_pred)
-    disp = ConfusionMatrixDisplay(
-        confusion_matrix=cm, display_labels=['True', 'False'])
-    disp.plot()
-
-    y_test_df = y_test.to_frame()
-    y_test_df['pred'] = y_pred
-
-    print(y_test_df)
-    plt.show()
+        cm = confusion_matrix(y_test, y_pred)
+        disp = ConfusionMatrixDisplay(
+            confusion_matrix=cm, display_labels=['Loser', 'Winner'])
+        disp.plot()
+        plt.show()
 
 
 if __name__ == '__main__':

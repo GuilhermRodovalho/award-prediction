@@ -86,7 +86,7 @@ def processaArquivoCriticReview(film, film_year, oscar_date):
 
 
 if __name__ == '__main__':
-    with open('oscars.csv') as csv_file, open('oscar_movies_data.json', 'w') as movies_file:
+    with open('oscars_2023.csv') as csv_file, open('oscar_movies_2023_data.json', 'w') as movies_file:
         movies_dict = dict()
         csv_reader = csv.reader(csv_file, delimiter=';')
         line_count = 0

@@ -1,0 +1,57 @@
+{
+    "AVATAR: THE WAY OF WATER": {
+        "year": "2022",
+        "cerimony-date": "10/01/2023",
+        "winner": "FALSE",
+        "user-mean": 6.974683544303797,
+        "user-stdev": 3.0423282394443585,
+        "user-median": 8,
+        "critic-mean": 70.20588235294117,
+        "critic-stdev": 18.441969350863573,
+        "critic-median": 75.0
+    },
+    "ELVIS": {
+        "year": "2022",
+        "cerimony-date": "10/01/2023",
+        "winner": "FALSE",
+        "user-mean": 7.102564102564102,
+        "user-stdev": 2.6635440556844934,
+        "user-median": 8,
+        "critic-mean": 66.88333333333334,
+        "critic-stdev": 18.259979084275866,
+        "critic-median": 70.0
+    },
+    "THE FABELMANS": {
+        "year": "2022",
+        "cerimony-date": "10/01/2023",
+        "winner": "TRUE",
+        "user-mean": 6.25,
+        "user-stdev": 3.333712099692528,
+        "user-median": 7.5,
+        "critic-mean": 83.15384615384616,
+        "critic-stdev": 12.903767338977465,
+        "critic-median": 83
+    },
+    "TAR": {
+        "year": "2022",
+        "cerimony-date": "10/01/2023",
+        "winner": "FALSE",
+        "user-mean": 5.466666666666667,
+        "user-stdev": 3.4819261226811697,
+        "user-median": 6,
+        "critic-mean": 89.20338983050847,
+        "critic-stdev": 13.163140361365073,
+        "critic-median": 90
+    },
+    "TOP GUN: MAVERICK": {
+        "year": "2022",
+        "cerimony-date": "10/01/2023",
+        "winner": "FALSE",
+        "user-mean": 9.145539906103286,
+        "user-stdev": 1.5364874529183319,
+        "user-median": 10,
+        "critic-mean": 79.63492063492063,
+        "critic-stdev": 12.968076917770517,
+        "critic-median": 80
+    }
+}

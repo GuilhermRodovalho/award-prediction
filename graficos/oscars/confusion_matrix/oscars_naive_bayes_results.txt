@@ -1,32 +1,4 @@
 test_size=0.2
 
-Accuracy: 0.8518518518518519
-F1 Score: 0.8518518518518519
-                                              winner   pred
-Django Unchained                               False  False
-The Power of The Dog                           False  False
-The Descendants                                False  False
-The Hurt Locker                                 True   True
-Life of Pi                                     False  False
-Ford v Ferrari                                 False  False
-Captain Phillips                               False  False
-Hell or High Water                             False  False
-American Hustle                                False  False
-Birdman or The Unexpected Virtue of Ignorance   True  False
-La La Land                                     False   True
-The Help                                       False  False
-BlacKkKlansman                                 False  False
-Amour                                          False   True
-Michael Clayton                                False  False
-Atonement                                      False  False
-Letters from Iwo Jima                          False  False
-Room 2015                                      False  False
-Darkest Hour                                   False  False
-Up                                             False  False
-War Horse                                      False  False
-The Imitation Game                             False  False
-Bohemian Rhapsody                              False  False
-An Education                                   False  False
-Dunkirk                                        False  False
-No Country for Old Men                          True  False
-The Reader                                     False  False
+Accuracy: 0.7777777777777778
+F1 Score: 0.7777777777777778
