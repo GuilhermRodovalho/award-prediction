@@ -11,26 +11,68 @@ from sklearn.metrics import (
     f1_score,
     precision_score,
     recall_score)
-from sklearn import tree
 from sklearn.ensemble import RandomForestClassifier
 import matplotlib.pyplot as plt
-import graphviz
 from imblearn.over_sampling import RandomOverSampler
+import statistics
+import numpy as np
 
 
 def generateTrainAndTest(opt):
+
     filename = ''
     if opt == 'oscars':
-        filename = 'oscar_movies_statistics.json'
+        filename = 'oscar_movies_data.json'
     elif opt == 'golden_globe':
-        filename = 'golden_globe_movies_statistics.json'
+        filename = 'golden_globe_movies_data.json'
     else:
         print('Erro')
         exit(1)
 
-    with open(filename, 'r') as train_file:
-        train_info = json.load(train_file)
-        df = pd.DataFrame.from_dict(train_info, orient='index')
+    with open('data/'+filename, 'r') as json_file:
+        movies = json.load(json_file)
+        for movie in movies:
+            movies[movie].pop('year')
+            movies[movie].pop('cerimony-date')
+
+            if movies[movie]['winner'].lower() == 'falso' or movies[movie]['winner'].lower() == 'false':
+                movies[movie]['class'] = 'Loser'
+            else:
+                movies[movie]['class'] = 'Winner'
+            movies[movie].pop('winner')
+
+            user_reviews = list(map(int, movies[movie]['user-review']))
+            critic_review = [
+                int(x)//10.0 for x in movies[movie]['critic-review']]
+            movies[movie]['user-mean'] = round(
+                statistics.mean(user_reviews), 2)
+            movies[movie]['user-stdev'] = round(
+                statistics.stdev(user_reviews), 2)
+            movies[movie]['user-median'] = round(
+                statistics.median(user_reviews), 2)
+            movies[movie]['user-mode'] = round(
+                statistics.mode(user_reviews), 2)
+            movies[movie]['user-percentile-25'] = round(
+                np.percentile(user_reviews, 25), 2)
+            movies[movie]['user-percentile-75'] = round(
+                np.percentile(user_reviews, 75), 2)
+            movies[movie].pop('user-review')
+
+            movies[movie]['critic-mean'] = round(
+                statistics.mean(critic_review), 2)
+            movies[movie]['critic-stdev'] = round(
+                statistics.stdev(critic_review), 2)
+            movies[movie]['critic-median'] = round(
+                statistics.median(critic_review), 2)
+            movies[movie]['critic-mode'] = round(
+                statistics.mode(critic_review), 2)
+            movies[movie]['critic-percentile-25'] = round(
+                np.percentile(critic_review, 25), 2)
+            movies[movie]['critic-percentile-75'] = round(
+                np.percentile(critic_review, 75), 2)
+            movies[movie].pop('critic-review')
+
+        df = pd.DataFrame.from_dict(movies, orient='index')
         ros = RandomOverSampler(random_state=80)
         x_train, x_test, y_train, y_test = train_test_split(
             df.drop('class', axis=1), df['class'], test_size=0.2, stratify=df['class'], random_state=80)
@@ -67,53 +109,6 @@ def naiveBayes(opt, detail):
             confusion_matrix=cm, display_labels=labels)
         disp.plot()
         plt.show()
-
-        proba = model.predict_proba(x_test)
-
-        proba_y = pd.concat([pd.DataFrame(index=x_test.index.values,
-                                          data=proba, columns=labels), y_test], axis=1)
-
-        print(proba_y)
-
-
-def decisionTree(opt, detail):
-    x_train, x_test, y_train, y_test = generateTrainAndTest(opt)
-
-    model = tree.DecisionTreeClassifier(
-        criterion='entropy', random_state=80)
-    model.fit(x_train, y_train)
-
-    y_pred = model.predict(x_test)
-
-    accuray = accuracy_score(y_pred, y_test)
-    f1 = f1_score(y_pred, y_test, average="binary", pos_label='Winner')
-    precision = precision_score(
-        y_pred, y_test, average='binary', pos_label='Winner')
-    recall = recall_score(y_pred, y_test, average='binary', pos_label='Winner')
-
-    print("Accuracy:", accuray)
-    print("Precision:", precision)
-    print("Recall:", recall)
-    print("F1 Score:", f1)
-
-    if detail is True:
-
-        labels = unique_labels(y_test, y_pred)
-
-        cm = confusion_matrix(y_test, y_pred, labels=labels)
-        disp = ConfusionMatrixDisplay(
-            confusion_matrix=cm, display_labels=labels)
-
-        disp.plot()
-        plt.show()
-        dot_data = tree.export_graphviz(
-            model, out_file=None,
-            feature_names=x_train.columns,
-            class_names=labels,
-            filled=True, rounded=True,
-            special_characters=True)
-        graph = graphviz.Source(dot_data)
-        graph.render("oscars_train")
 
         proba = model.predict_proba(x_test)
 
@@ -212,7 +207,5 @@ if __name__ == '__main__':
         naiveBayes(name, details)
         print('\nKNN')
         knn(name, details)
-        print('\nDecision Tree')
-        decisionTree(name, details)
         print('\nRandom Forest')
         randomForest(name, details)
