@@ -57,7 +57,7 @@ def get_reviews(url, release_year, cerimony_date, critic=False):
 
 def processaArquivoUserReview(film, film_year, oscar_date):
     film_string = film.lower().replace(" ", "-")
-    film_string = re.sub(r'[^a-zA-Z0-9\-]+', '', film_string)
+    film_string = re.sub(r'[^a-zA-Z0-9!\-]+', '', film_string)
     try:
         return get_reviews(
             f'https://www.metacritic.com/movie/{film_string}/user-reviews?sort-by=date&num_items=100', film_year, oscar_date)
@@ -72,7 +72,7 @@ def processaArquivoUserReview(film, film_year, oscar_date):
 
 def processaArquivoCriticReview(film, film_year, oscar_date):
     film_string = film.lower().replace(" ", "-")
-    film_string = re.sub(r'[^a-zA-Z0-9\-]+', '', film_string)
+    film_string = re.sub(r'[^a-zA-Z0-9!\-]+', '', film_string)
     try:
         return get_reviews(
             f'https://www.metacritic.com/movie/{film_string}/critic-reviews?sort-by=date&num_items=100', film_year, oscar_date, True)
@@ -86,9 +86,9 @@ def processaArquivoCriticReview(film, film_year, oscar_date):
 
 
 if __name__ == '__main__':
-    with open('csv/golden_globe_awards_comedy.csv') as csv_file, open('data/golden_globe_movies_comedy_data.json', 'w') as movies_file:
+    with open('csv/golden_globe_comedy_2023.csv') as csv_file, open('data/golden_globe_movies_comedy_2023_data.json', 'w') as movies_file:
         movies_dict = dict()
-        csv_reader = csv.reader(csv_file, delimiter=';')
+        csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
         try:
             for row in csv_reader:

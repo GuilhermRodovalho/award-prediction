@@ -1,10 +1,10 @@
 year_film,year_award,nominee,win
 2006,15/01/2007,Dreamgirls,True
-2006,15/01/2007,"Devil Wears Prada, The",False
+2006,15/01/2007,The Devil Wears Prada,False
 2006,15/01/2007,Little Miss Sunshine,False
 2006,15/01/2007,Thank You For Smoking,False
-2006,15/01/2007,Borat: Cultural Learnings Of America For Make Benefit Glorious Nation Of Kazakhstan,False
-2007,16/01/2008,Sweeney Todd: The Demon Barber of Fleet Street,True
+2006,15/01/2007,Borat Cultural Learnings Of America For Make Benefit Glorious Nation Of Kazakhstan,False
+2007,16/01/2008,Sweeney Todd The Demon Barber of Fleet Street,True
 2007,16/01/2008,Across The Universe,False
 2007,16/01/2008,Charlie Wilson's War,False
 2007,16/01/2008,Hairspray,False
@@ -13,24 +13,24 @@ year_film,year_award,nominee,win
 2008,11/01/2009,Burn After Reading,False
 2008,11/01/2009,Happy-Go-Lucky,False
 2008,11/01/2009,In Bruges,False
-2008,11/01/2009,Mamma Mia!,False
-2009,17/01/2010,"Hangover, The",True
-2009,17/01/2010,(500) Days of Summer,False
+2008,11/01/2009,mamma-mia!,False
+2009,17/01/2010,The Hangover,True
+2009,17/01/2010,500 Days of Summer,False
 2009,17/01/2010,It's Complicated,False
-2009,17/01/2010,Julie & Julia,False
+2009,17/01/2010,Julie Julia,False
 2009,17/01/2010,Nine,False
-2010,16/01/2011,"Kids Are All Right, The",True
+2010,16/01/2011,The Kids Are All Right,True
 2010,16/01/2011,Alice in Wonderland,False
 2010,16/01/2011,Burlesque,False
 2010,16/01/2011,Red,False
-2010,16/01/2011,"Tourist, The",False
+2010,16/01/2011,The Tourist,False
 2011,15/01/2012,The Artist,True
 2011,15/01/2012,50/50,False
 2011,15/01/2012,Bridesmaids,False
 2011,15/01/2012,Midnight In Paris,False
 2011,15/01/2012,My Week With Marilyn,False
-2012,13/01/2013,Les Misérables,True
-2012,13/01/2013,"Best Exotic Marigold Hotel, The",False
+2012,13/01/2013,Les Miserables,True
+2012,13/01/2013,The Best Exotic Marigold Hotel,False
 2012,13/01/2013,Moonrise Kingdom,False
 2012,13/01/2013,Salmon Fishing in the Yemen,False
 2012,13/01/2013,Silver Linings Playbook,False
@@ -38,15 +38,15 @@ year_film,year_award,nominee,win
 2013,12/01/2014,Nebraska,False
 2013,12/01/2014,Inside Llewyn Davis,False
 2013,12/01/2014,Her,False
-2013,12/01/2014,"Wolf of Wall Street, The",False
-2014,11/01/2015,"Grand Budapest Hotel, The",True
+2013,12/01/2014,The Wolf of Wall Street,False
+2014,11/01/2015,The Grand Budapest Hotel,True
 2014,11/01/2015,Into the Woods,False
 2014,11/01/2015,St. Vincent,False
 2014,11/01/2015,Pride,False
-2014,11/01/2015,Birdman,False
+2014,11/01/2015,birdman-or-the-unexpected-virtue-of-ignorance,False
 2015,10/01/2016,The Martian,True
 2015,10/01/2016,Spy,False
-2015,10/01/2016,"Big Short, The",False
+2015,10/01/2016,The Big Short,False
 2015,10/01/2016,Trainwreck,False
 2015,10/01/2016,Joy,False
 2016,08/01/2017,La La Land,True
@@ -55,27 +55,27 @@ year_film,year_award,nominee,win
 2016,08/01/2017,Florence Foster Jenkins,False
 2016,08/01/2017,Sing Street,False
 2017,07/01/2018,Lady Bird,True
-2017,07/01/2018,"Disaster Artist, The ",False
+2017,07/01/2018,The Disaster Artist,False
 2017,07/01/2018,Get Out,False
 2017,07/01/2018,The Greatest Showman,False
-2017,07/01/2018,"I, Tonya",False
+2017,07/01/2018,I Tonya,False
 2018,06/01/2019,Green Book,True
 2018,06/01/2019,Crazy Rich Asians,False
-2018,06/01/2019,"Favourite, The",False
+2018,06/01/2019,The Favourite,False
 2018,06/01/2019,Mary Poppins Returns,False
 2018,06/01/2019,Vice,False
-2019,05/01/2020,Once Upon a Time...in Hollywood,True
+2019,05/01/2020,Once Upon a Time in Hollywood,True
 2019,05/01/2020,Dolemite Is My Name,False
 2019,05/01/2020,Jojo Rabbit,False
 2019,05/01/2020,Knives Out,False
 2019,05/01/2020,Rocketman,False
-2021,10/01/22,West Side Story,True
+2021,10/01/22,west-side-story-2020,True
 2021,10/01/22,Cyrano,False
 2021,10/01/22,Dont look up,False
 2021,10/01/22,Licorice Pizza,False
-2021,10/01/22,tick tick boom,False
+2021,10/01/22,tick tickboom!,False
 2020,28/01/21,Borat-subsequent-moviefilm-delivery-of-prodigious-bribe-to-american-regime-for-make-benefit-once-glo,True
 2020,28/01/21,Hamilton,False
-2020,28/01/21,Music,False
+2021,28/01/21,Music,False
 2020,28/01/21,Palm Springs,False
 2020,28/01/21,The Prom,False

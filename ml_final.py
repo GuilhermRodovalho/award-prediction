@@ -64,6 +64,9 @@ def generateTrainAndTest(opt):
     elif opt == 'golden_globe':
         train_filename = 'golden_globe_movies_data.json'
         test_filename = 'golden_globe_movies_2023_data.json'
+    elif opt == 'golden_globe_comedy':
+        train_filename = 'golden_globe_movies_comedy_data.json'
+        test_filename = 'golden_globe_movies_comedy_2023_data.json'
     else:
         print('Erro')
         exit(1)
@@ -133,7 +136,7 @@ def randomForest(opt):
 
 
 if __name__ == '__main__':
-    for name in ['oscars', 'golden_globe']:
+    for name in ['oscars', 'golden_globe', 'golden_globe_comedy']:
         print('\nResultados do ' + name)
         print('\nNaive Bayes')
         naiveBayes(name)
