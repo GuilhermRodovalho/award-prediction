@@ -33,52 +33,115 @@ def plotHistogram():
         plt.show()
 
 
-def plotHistogramByClass(class_, type_):
-    with open('golden_globe_movies_statistics.json', 'r') as json_file:
+def plotHistogramByClass(class_):
+    with open('data/golden_globe_movies_comedy_data.json', 'r') as json_file:
         movies = json.load(json_file)
-        fig, ((ax1, ax2, ax3), (ax4, ax5, ax6)
-              ) = plt.subplots(2, 3, figsize=(10, 5))
+        for movie in movies:
+            movies[movie].pop('year')
+            movies[movie].pop('cerimony-date')
 
-        medias = []
-        medianas = []
-        stdev = []
-        modas = []
-        perc_25 = []
-        perc_75 = []
+            if movies[movie]['winner'].lower() == 'falso' or movies[movie]['winner'].lower() == 'false':
+                movies[movie]['class'] = 'Loser'
+            else:
+                movies[movie]['class'] = 'Winner'
+            movies[movie].pop('winner')
 
-        if type_ == 'critic':
-            for movie in movies:
-                if movies[movie]['class'] == class_:
-                    medias.append(movies[movie]['critic-mean'])
-                    medianas.append(movies[movie]['critic-median'])
-                    stdev.append(movies[movie]['critic-stdev'])
-                    modas.append(movies[movie]['critic-mode'])
-                    perc_25.append(movies[movie]['critic-percentile-25'])
-                    perc_75.append(movies[movie]['critic-percentile-75'])
-        else:
-            for movie in movies:
-                if movies[movie]['class'] == class_:
-                    medias.append(movies[movie]['user-mean'])
-                    medianas.append(movies[movie]['user-median'])
-                    stdev.append(movies[movie]['user-stdev'])
-                    modas.append(movies[movie]['user-mode'])
-                    perc_25.append(movies[movie]['user-percentile-25'])
-                    perc_75.append(movies[movie]['user-percentile-75'])
+            user_reviews = list(map(int, movies[movie]['user-review']))
+            critic_review = [
+                int(x)//10.0 for x in movies[movie]['critic-review']]
+            movies[movie]['user-mean'] = round(
+                statistics.mean(user_reviews), 2)
+            movies[movie]['user-stdev'] = round(
+                statistics.stdev(user_reviews), 2)
+            movies[movie]['user-median'] = round(
+                statistics.median(user_reviews), 2)
+            movies[movie]['user-mode'] = round(
+                statistics.mode(user_reviews), 2)
+            movies[movie]['user-percentile-25'] = round(
+                np.percentile(user_reviews, 25), 2)
+            movies[movie]['user-percentile-75'] = round(
+                np.percentile(user_reviews, 75), 2)
+            movies[movie].pop('user-review')
 
-        ax1.hist(medias, bins=20, color='blue')
-        ax2.hist(medianas, bins=20, color='green')
-        ax3.hist(stdev, bins=20, color='red')
-        ax4.hist(modas, bins=20, color='yellow')
-        ax5.hist(perc_25, bins=20, color='grey')
-        ax6.hist(perc_75, bins=20, color='purple')
+            movies[movie]['critic-mean'] = round(
+                statistics.mean(critic_review), 2)
+            movies[movie]['critic-stdev'] = round(
+                statistics.stdev(critic_review), 2)
+            movies[movie]['critic-median'] = round(
+                statistics.median(critic_review), 2)
+            movies[movie]['critic-mode'] = round(
+                statistics.mode(critic_review), 2)
+            movies[movie]['critic-percentile-25'] = round(
+                np.percentile(critic_review, 25), 2)
+            movies[movie]['critic-percentile-75'] = round(
+                np.percentile(critic_review, 75), 2)
+            movies[movie].pop('critic-review')
 
-        ax1.set_title('Média')
-        ax2.set_title('Mediana')
-        ax3.set_title('Desvio padrão')
-        ax4.set_title('Moda')
-        ax5.set_title('Percentil 25%')
-        ax6.set_title('Percentil 75%')
-        ax1.set_ylabel('Frequência')
+        fig, ((ax1c, ax2c, ax3c), (ax4c, ax5c, ax6c), (ax1u, ax2u, ax3u), (ax4u, ax5u, ax6u)
+              ) = plt.subplots(4, 3, figsize=(10, 5))
+
+        medias_c = []
+        medianas_c = []
+        stdev_c = []
+        modas_c = []
+        perc_25_c = []
+        perc_75_c = []
+
+        medias_u = []
+        medianas_u = []
+        stdev_u = []
+        modas_u = []
+        perc_25_u = []
+        perc_75_u = []
+
+        for movie in movies:
+            if movies[movie]['class'] == class_:
+                medias_c.append(movies[movie]['critic-mean'])
+                medianas_c.append(movies[movie]['critic-median'])
+                stdev_c.append(movies[movie]['critic-stdev'])
+                modas_c.append(movies[movie]['critic-mode'])
+                perc_25_c.append(movies[movie]['critic-percentile-25'])
+                perc_75_c.append(movies[movie]['critic-percentile-75'])
+        for movie in movies:
+            if movies[movie]['class'] == class_:
+                medias_u.append(movies[movie]['user-mean'])
+                medianas_u.append(movies[movie]['user-median'])
+                stdev_u.append(movies[movie]['user-stdev'])
+                modas_u.append(movies[movie]['user-mode'])
+                perc_25_u.append(movies[movie]['user-percentile-25'])
+                perc_75_u.append(movies[movie]['user-percentile-75'])
+
+        ax1c.hist(medias_c, bins=20, color='blue')
+        ax2c.hist(medianas_c, bins=20, color='green')
+        ax3c.hist(stdev_c, bins=20, color='red')
+        ax4c.hist(modas_c, bins=20, color='yellow')
+        ax5c.hist(perc_25_c, bins=20, color='grey')
+        ax6c.hist(perc_75_c, bins=20, color='purple')
+
+        ax1u.hist(medias_u, bins=20, color='blue')
+        ax2u.hist(medianas_u, bins=20, color='green')
+        ax3u.hist(stdev_u, bins=20, color='red')
+        ax4u.hist(modas_u, bins=20, color='yellow')
+        ax5u.hist(perc_25_u, bins=20, color='grey')
+        ax6u.hist(perc_75_u, bins=20, color='purple')
+
+        ax1c.set_title('Média - críticos')
+        ax2c.set_title('Mediana - críticos')
+        ax3c.set_title('Desvio padrão - críticos')
+        ax4c.set_title('Moda - críticos')
+        ax5c.set_title('Percentil 25% - críticos')
+        ax6c.set_title('Percentil 75% - críticos')
+        ax1c.set_ylabel('Frequência')
+        ax4c.set_ylabel('Frequência ')
+
+        ax1u.set_title('Média - Usu.')
+        ax2u.set_title('Mediana - Usu.')
+        ax3u.set_title('Desvio padrão - Usu.')
+        ax4u.set_title('Moda - Usu.')
+        ax5u.set_title('Percentil 25% - Usu.')
+        ax6u.set_title('Percentil 75% - Usu.')
+        ax1u.set_ylabel('Frequência')
+        ax4u.set_ylabel('Frequência')
         # Show the plot
         plt.show()
 
@@ -205,53 +268,5 @@ def plot3DScatter():
         plt.show()
 
 
-def generateFeatures():
-    with open('golden_globe_movies_2023_data.json', 'r') as json_file, open('golden_globe_movies_2023_statistics.json', 'w') as output_file:
-        movies = json.load(json_file)
-        for movie in movies:
-            movies[movie].pop('year')
-            movies[movie].pop('cerimony-date')
-
-            if movies[movie]['winner'].lower() == 'falso' or movies[movie]['winner'].lower() == 'false':
-                movies[movie]['class'] = 'Loser'
-            else:
-                movies[movie]['class'] = 'Winner'
-            movies[movie].pop('winner')
-
-            user_reviews = list(map(int, movies[movie]['user-review']))
-            critic_review = [
-                int(x)//10.0 for x in movies[movie]['critic-review']]
-            movies[movie]['user-mean'] = round(
-                statistics.mean(user_reviews), 2)
-            movies[movie]['user-stdev'] = round(
-                statistics.stdev(user_reviews), 2)
-            movies[movie]['user-median'] = round(
-                statistics.median(user_reviews), 2)
-            movies[movie]['user-mode'] = round(
-                statistics.mode(user_reviews), 2)
-            movies[movie]['user-percentile-25'] = round(
-                np.percentile(user_reviews, 25), 2)
-            movies[movie]['user-percentile-75'] = round(
-                np.percentile(user_reviews, 75), 2)
-            movies[movie].pop('user-review')
-
-            movies[movie]['critic-mean'] = round(
-                statistics.mean(critic_review), 2)
-            movies[movie]['critic-stdev'] = round(
-                statistics.stdev(critic_review), 2)
-            movies[movie]['critic-median'] = round(
-                statistics.median(critic_review), 2)
-            movies[movie]['critic-mode'] = round(
-                statistics.mode(critic_review), 2)
-            movies[movie]['critic-percentile-25'] = round(
-                np.percentile(critic_review, 25), 2)
-            movies[movie]['critic-percentile-75'] = round(
-                np.percentile(critic_review, 75), 2)
-            movies[movie].pop('critic-review')
-
-        json.dump(movies, output_file)
-
-
 if __name__ == '__main__':
-    plotHistogramByClass('Winner', 'user')
-    # generateFeatures()
+    plotHistogramByClass('Loser')

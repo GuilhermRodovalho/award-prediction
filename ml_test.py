@@ -78,8 +78,13 @@ def generateTrainAndTest(opt):
         ros = RandomOverSampler(random_state=80)
         x_train, x_test, y_train, y_test = train_test_split(
             df.drop('class', axis=1), df['class'], test_size=0.2, stratify=df['class'], random_state=80)
+        # print(y_test)
+        # print((y_train == 'Loser').sum())
+        # print((y_train == 'Winner').sum())
         x_resampled, y_resampled = ros.fit_resample(
             x_train, y_train)
+        # print((y_resampled == 'Loser').sum())
+        # print((y_resampled == 'Winner').sum())
         return x_resampled, x_test, y_resampled, y_test
 
 
@@ -110,6 +115,7 @@ def naiveBayes(opt, detail):
         disp = ConfusionMatrixDisplay(
             confusion_matrix=cm, display_labels=labels)
         disp.plot()
+        plt.suptitle(opt + ' naive bayes')
         plt.show()
 
         proba = model.predict_proba(x_test)
@@ -126,9 +132,11 @@ def knn(opt, detail):
     x_train, x_test, y_train, y_test = generateTrainAndTest(opt)
 
     if (opt == 'oscars'):
-        k = 10
-    else:
+        k = 14
+    elif (opt == 'golden_globe'):
         k = 5
+    else:
+        k = 15
 
     model = KNeighborsClassifier(n_neighbors=k)
     model.fit(x_train, y_train)
@@ -154,6 +162,7 @@ def knn(opt, detail):
             confusion_matrix=cm, display_labels=labels)
 
         disp.plot()
+        plt.suptitle(opt + ' knn')
         plt.show()
 
         proba = model.predict_proba(x_test)
@@ -166,8 +175,15 @@ def knn(opt, detail):
 
 def randomForest(opt, detail):
     x_train, x_test, y_train, y_test = generateTrainAndTest(opt)
+    min_leaf = 0
 
-    model = RandomForestClassifier(criterion='entropy', random_state=80)
+    if (opt == 'oscars'):
+        min_leaf = 15
+    else:
+        min_leaf = 3
+
+    model = RandomForestClassifier(
+        criterion='entropy', random_state=80, min_samples_leaf=min_leaf, min_samples_split=2)
     model.fit(x_train, y_train)
 
     y_pred = model.predict(x_test)
@@ -191,6 +207,7 @@ def randomForest(opt, detail):
             confusion_matrix=cm, display_labels=labels)
 
         disp.plot()
+        plt.suptitle(opt + ' random forest')
         plt.show()
 
         proba = model.predict_proba(x_test)
@@ -202,9 +219,10 @@ def randomForest(opt, detail):
 
 
 if __name__ == '__main__':
-    details = False
+    details = True
     for name in ['oscars', 'golden_globe', 'golden_globe_comedy']:
         print('\nResultados do ' + name)
+        # generateTrainAndTest(name)
         print('\nNaive Bayes')
         naiveBayes(name, details)
         print('\nKNN')
