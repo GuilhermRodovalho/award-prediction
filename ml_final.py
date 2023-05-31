@@ -97,14 +97,24 @@ def naiveBayes(opt):
 
     proba_y = pd.DataFrame(index=x_test.index.values,
                            data=proba, columns=labels)
+    proba_y['Loser'] = round(proba_y['Loser'], 4)
+    proba_y['Winner'] = round(proba_y['Winner'], 4)
 
     print(proba_y)
 
 
 def knn(opt):
+    k = 0
     x_train, x_test, y_train, y_test = generateTrainAndTest(opt)
 
-    model = KNeighborsClassifier(n_neighbors=16)
+    if (opt == 'oscars'):
+        k = 14
+    elif (opt == 'golden_globe'):
+        k = 5
+    else:
+        k = 15
+
+    model = KNeighborsClassifier(n_neighbors=k)
     model.fit(x_train, y_train)
 
     y_pred = model.predict(x_test)
@@ -114,13 +124,23 @@ def knn(opt):
     proba = model.predict_proba(x_test)
     proba_y = pd.DataFrame(index=x_test.index.values,
                            data=proba, columns=labels)
+    proba_y['Loser'] = round(proba_y['Loser'], 4)
+    proba_y['Winner'] = round(proba_y['Winner'], 4)
     print(proba_y)
 
 
 def randomForest(opt):
     x_train, x_test, y_train, y_test = generateTrainAndTest(opt)
 
-    model = RandomForestClassifier(criterion='entropy', random_state=80)
+    min_leaf = 0
+
+    if (opt == 'oscars'):
+        min_leaf = 15
+    else:
+        min_leaf = 3
+
+    model = RandomForestClassifier(
+        criterion='entropy', random_state=80, min_samples_leaf=min_leaf, min_samples_split=2)
     model.fit(x_train, y_train)
 
     y_pred = model.predict(x_test)
@@ -131,6 +151,8 @@ def randomForest(opt):
 
     proba_y = pd.DataFrame(index=x_test.index.values,
                            data=proba, columns=labels)
+    proba_y['Loser'] = round(proba_y['Loser'], 4)
+    proba_y['Winner'] = round(proba_y['Winner'], 4)
 
     print(proba_y)
 
