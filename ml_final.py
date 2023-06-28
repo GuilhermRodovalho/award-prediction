@@ -52,7 +52,9 @@ def generateDataframes(json_input):
             np.percentile(critic_review, 75), 2)
         movies[movie].pop('critic-review')
 
-    return pd.DataFrame.from_dict(movies, orient='index')
+    df = pd.DataFrame.from_dict(movies, orient='index')
+
+    return df
 
 
 def generateTrainAndTest(opt):

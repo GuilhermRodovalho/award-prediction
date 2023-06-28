@@ -75,6 +75,7 @@ def generateTrainAndTest(opt):
             movies[movie].pop('critic-review')
 
         df = pd.DataFrame.from_dict(movies, orient='index')
+        print(df.loc[df['class'] == 'Winner'][['critic-mean', 'user-mean']])
         ros = RandomOverSampler(random_state=80)
         x_train, x_test, y_train, y_test = train_test_split(
             df.drop('class', axis=1), df['class'], test_size=0.2, stratify=df['class'], random_state=80)
