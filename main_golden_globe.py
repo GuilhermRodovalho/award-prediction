@@ -30,7 +30,7 @@ def get_reviews(url, release_year, cerimony_date, critic=False):
         if ('ad_unit' in review.get('class')):
             continue
         review_score = review.find('div', class_='metascore_w').get_text()
-        if (critic):
+        if (critic):  # As critic reviews always ocurr days after the movie launched
             reviews_list.append(review_score)
         else:
             review_date_str = review.find('span', class_='date').get_text()
