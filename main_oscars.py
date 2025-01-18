@@ -1,106 +1,222 @@
-# main.py
-
 from datetime import datetime
 from bs4 import BeautifulSoup
 import csv
 import requests
 import re
-import sys
 import json
+from typing import List, Optional
 
 
-def get_reviews(url, release_year, cerimony_date, critic=False):
-    reviews_list = []
-    session = requests.Session()
-    session.headers = {
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69'}
-    res = session.get(url)
-    soup = BeautifulSoup(res.content, 'html.parser')
-    date_str = soup.find("span", class_='release_date').contents[3].get_text()
-    date_obj = date_obj = datetime.strptime(date_str, '%B %d, %Y').date()
-    if (int(release_year) != date_obj.year):
-        raise AssertionError("Anos diferentes - "+url)
-    if (critic):
-        reviews = soup.find("div", class_='critic_reviews').find_all(
-            'div', class_='review')
-    else:
-        reviews = soup.find("div", class_='user_reviews').find_all(
-            'div', class_='review')
-    for review in reviews:
-        if ('ad_unit' in review.get('class')):
-            continue
-        review_score = review.find('div', class_='metascore_w').get_text()
-        if (critic):  # As critic reviews always ocurr days after the movie launched
-            reviews_list.append(review_score)
-        else:
-            review_date_str = review.find('span', class_='date').get_text()
-            review_date_obj = datetime.strptime(
-                review_date_str, '%b %d, %Y').date()
-            if (cerimony_date > review_date_obj.strftime("%d/%m/%Y")):
-                reviews_list.append(review_score)
-    try:
-        next_page_flipper = soup.find('div', class_='page_flipper')
-        if next_page_flipper:
-            next_page = next_page_flipper.find(
-                'span', class_='flipper next').find('a')
-            if next_page:
-                next_page_url = 'https://www.metacritic.com' + \
-                    next_page['href']
-                reviews_list.extend(get_reviews(
-                    next_page_url, release_year, cerimony_date, critic))
+class MetacriticScraper:
+    """
+    Classe responsável por buscar e processar avaliações de filmes no Metacritic.
+    """
+
+    BASE_URL = "https://www.metacritic.com"
+
+    def __init__(self):
+        self.session = requests.Session()
+        self.session.headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69"
+            )
+        }
+
+    def get_reviews(self, url: str, release_year: str, cerimony_date: str, critic: bool = False) -> List[str]:
+        """
+        Obtém as avaliações de um filme a partir de uma URL do Metacritic.
+
+        Args:
+            url (str): URL da página de avaliações do filme.
+            release_year (str): Ano de lançamento do filme.
+            cerimony_date (str): Data da cerimônia do Oscar.
+            critic (bool): Indica se as avaliações são de críticos (True) ou usuários (False).
+
+        Returns:
+            List[str]: Lista de avaliações.
+        """
+
+        movie_details_url = url[:url.rfind("/")] + "/details"
+        try:
+            response = self.session.get(movie_details_url)
+            response.raise_for_status()
+        except requests.RequestException as e:
+            raise RuntimeError(f"Erro ao acessar {movie_details_url}: {e}")
+
+        soup = BeautifulSoup(response.content, "html.parser")
+        release_date = self._extract_release_date(soup)
+
+        if int(release_year) != release_date.year:
+            raise ValueError(f"Anos diferentes: {release_year} vs {release_date.year} para {url}")
+
+        reviews_list = []
+        try:
+            print(url)
+            response = self.session.get(url)
+            response.raise_for_status()
+        except requests.RequestException as e:
+            raise RuntimeError(f"Erro ao acessar {url}: {e}")
+
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        reviews = self._extract_reviews(soup, cerimony_date, critic)
+        reviews_list.extend(reviews)
+
+        next_page_url = self._get_next_page_url(soup)
+        if next_page_url:
+            reviews_list.extend(self.get_reviews(next_page_url, release_year, cerimony_date, critic))
+
         return reviews_list
-    except Exception as e:
-        pass
-    finally:
-        pass
 
+    def _extract_release_date(self, soup: BeautifulSoup) -> datetime:
+        """
+        Extrai a data de lançamento do filme.
 
-def processaArquivoUserReview(film, film_year, oscar_date):
-    film_string = film.lower().replace(" ", "-")
-    film_string = re.sub(r'[^a-zA-Z0-9\-]+', '', film_string)
-    try:
-        return get_reviews(
-            f'https://www.metacritic.com/movie/{film_string}/user-reviews?sort-by=date&num_items=100', film_year, oscar_date)
-    except Exception as e:
+        Args:
+            soup (BeautifulSoup): Objeto BeautifulSoup da página.
+
+        Returns:
+            datetime: Data de lançamento.
+        """
         try:
-            film_string = film_string + "-" + film_year
-            return get_reviews(
-                f'https://www.metacritic.com/movie/{film_string}/user-reviews?sort-by=date&num_items=100', film_year, oscar_date)
+            date_str = (
+                soup.find("div", class_="c-movieDetails")
+                .find_all("div")[1]
+                .find_all("span")[1]
+                .get_text()
+            )
+            return datetime.strptime(date_str, "%b %d, %Y").date()
+        except (AttributeError, IndexError, ValueError):
+            raise RuntimeError("Não foi possível extrair a data de lançamento.")
+
+    def _extract_reviews(self, soup: BeautifulSoup, cerimony_date: str, critic: bool) -> List[str]:
+        """
+        Extrai as avaliações da página.
+
+        Args:
+            soup (BeautifulSoup): Objeto BeautifulSoup da página.
+            cerimony_date (str): Data da cerimônia do Oscar.
+            critic (bool): Indica se as avaliações são de críticos (True) ou usuários (False).
+
+        Returns:
+            List[str]: Lista de avaliações.
+        """
+        reviews = []
+        cerimony_date_obj = datetime.strptime(cerimony_date, "%d/%m/%Y").date()
+
+        print(f"Found {len(soup.find_all('div', class_='c-siteReviewHeader_reviewScore'))} reviews")
+        with open("soup.html", "w") as f:
+            f.write(str(soup))
+
+        for review in soup.find_all("div", class_="c-siteReviewHeader_reviewScore"):
+            if "ad_unit" in review.get("class", []):
+                continue
+            score = review.find("div", class_="metascore_w")
+            if not score:
+                continue
+            score_text = score.get_text()
+
+            if not critic:
+                date_str = review.find("span", class_="date")
+                if date_str:
+                    review_date = datetime.strptime(date_str.get_text(), "%b %d, %Y").date()
+                    if review_date > cerimony_date_obj:
+                        continue
+
+            reviews.append(score_text)
+
+        return reviews
+
+    def _get_next_page_url(self, soup: BeautifulSoup) -> Optional[str]:
+        """
+        Verifica se existe uma próxima página de avaliações.
+
+        Args:
+            soup (BeautifulSoup): Objeto BeautifulSoup da página.
+
+        Returns:
+            Optional[str]: URL da próxima página, se existir.
+        """
+        next_page = soup.find("div", class_="page_flipper")
+        if next_page:
+            link = next_page.find("span", class_="flipper next")
+            if link and link.find("a"):
+                return self.BASE_URL + link.find("a")["href"]
+        return None
+
+
+def slugify_film_title(title: str) -> str:
+    """
+    Converte o título do filme em um slug apropriado para URLs.
+
+    Args:
+        title (str): Título do filme.
+
+    Returns:
+        str: Slug do filme.
+    """
+    return re.sub(r"[^a-zA-Z0-9\-]+", "", title.lower().replace(" ", "-"))
+
+
+def process_reviews(scraper: MetacriticScraper, film: str, film_year: str, oscar_date: str, critic: bool) -> List[str]:
+    """
+    Processa as avaliações de um filme, tentando diferentes variações de slug.
+
+    Args:
+        scraper (MetacriticScraper): Instância do scraper.
+        film (str): Nome do filme.
+        film_year (str): Ano de lançamento do filme.
+        oscar_date (str): Data da cerimônia do Oscar.
+        critic (bool): Indica se são avaliações de críticos.
+
+    Returns:
+        List[str]: Lista de avaliações.
+    """
+    film_slug = slugify_film_title(film)
+    paths = [
+        f"/movie/{film_slug}/{'critic-reviews' if critic else 'user-reviews'}?sort-by=date&num_items=100",
+        f"/movie/{film_slug}-{film_year}/{'critic-reviews' if critic else 'user-reviews'}?sort-by=date&num_items=100",
+    ]
+
+    for path in paths:
+        try:
+            return scraper.get_reviews(scraper.BASE_URL + path, film_year, oscar_date, critic)
         except Exception as e:
-            print(film_string+' não encontrado')
+            print(f"Erro ao processar {film_slug}: {e}")
+
+    print(f"{film_slug} não encontrado")
+    return []
 
 
-def processaArquivoCriticReview(film, film_year, oscar_date):
-    film_string = film.lower().replace(" ", "-")
-    film_string = re.sub(r'[^a-zA-Z0-9\-]+', '', film_string)
+def main():
+    """
+    Função principal que processa o arquivo CSV e gera um arquivo JSON com os dados dos filmes.
+    """
+    scraper = MetacriticScraper()
     try:
-        return get_reviews(
-            f'https://www.metacritic.com/movie/{film_string}/critic-reviews?sort-by=date&num_items=100', film_year, oscar_date, True)
-    except Exception as e:
-        try:
-            film_string = film_string + "-" + film_year
-            return get_reviews(
-                f'https://www.metacritic.com/movie/{film_string}/critic-reviews?sort-by=date&num_items=100', film_year, oscar_date, True)
-        except Exception as e:
-            print(film_string+' não encontrado')
+        with open("oscars_2023.csv") as csv_file, open("oscar_movies_2023_data.json", "w") as movies_file:
+            movies_dict = {}
+            csv_reader = csv.reader(csv_file, delimiter=";")
+            next(csv_reader)  # Ignora o cabeçalho
 
-
-if __name__ == '__main__':
-    with open('oscars_2023.csv') as csv_file, open('oscar_movies_2023_data.json', 'w') as movies_file:
-        movies_dict = dict()
-        csv_reader = csv.reader(csv_file, delimiter=';')
-        line_count = 0
-        try:
             for row in csv_reader:
-                if line_count == 0:
-                    line_count += 1
-                else:
-                    print("Processing: " + row[2])
-                    user = processaArquivoUserReview(row[2], row[0], row[1])
-                    critic = processaArquivoCriticReview(
-                        row[2], row[0], row[1])
-                    movies_dict[row[2]] = {
-                        'user-review': user, 'critic-review': critic, 'year': row[0], 'cerimony-date': row[1], 'winner': row[3]}
-            json.dump(movies_dict, movies_file)
-        except Exception as e:
-            print(e)
+                print(f"Processando: {row[2]}")
+                user_reviews = process_reviews(scraper, row[2], row[0], row[1], critic=False)
+                critic_reviews = process_reviews(scraper, row[2], row[0], row[1], critic=True)
+                movies_dict[row[2]] = {
+                    "user-reviews": user_reviews,
+                    "critic-reviews": critic_reviews,
+                    "year": row[0],
+                    "cerimony-date": row[1],
+                    "winner": row[3],
+                }
+                break # TODO: remover após testes
+
+            json.dump(movies_dict, movies_file, indent=4)
+    except Exception as e:
+        print(f"Erro na execução principal: {e}")
+
+
+if __name__ == "__main__":
+    main()
