@@ -1,10 +1,14 @@
 from datetime import datetime
+import time
 from bs4 import BeautifulSoup
 import csv
 import requests
 import re
 import json
 from typing import List, Optional
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
 
 
 class MetacriticScraper:
@@ -22,6 +26,10 @@ class MetacriticScraper:
                 "(KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69"
             )
         }
+        # Inicializa o driver do Selenium com opções headless
+        options = Options()
+        options.add_argument("--headless")
+        self.driver = webdriver.Chrome(options=options)
 
     def get_reviews(self, url: str, release_year: str, cerimony_date: str, critic: bool = False) -> List[str]:
         """
@@ -53,12 +61,19 @@ class MetacriticScraper:
         reviews_list = []
         try:
             print(url)
-            response = self.session.get(url)
-            response.raise_for_status()
-        except requests.RequestException as e:
-            raise RuntimeError(f"Erro ao acessar {url}: {e}")
+            # Usar Selenium para carregar a página principal das reviews
+            self.driver.get(url)
+            # Pega a quantidade de reviews do produto
+            quantidade_de_reviews = int(self.driver.find_element(value="c-pageProductReviews_text", by=By.CLASS_NAME).text.split(" ")[1])
+            # Scroll down até o final para carregar todas as reviews
+            for _ in range(quantidade_de_reviews // 50): # Cada página tem 50 reviews
+                self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                # espera carregar a página
+                time.sleep(0.5)
 
-        soup = BeautifulSoup(response.content, "html.parser")
+            soup = BeautifulSoup(self.driver.page_source, "html.parser")
+        except Exception as e:
+            raise RuntimeError(f"Erro ao acessar {url} via Selenium: {e}")
 
         reviews = self._extract_reviews(soup, cerimony_date, critic)
         reviews_list.extend(reviews)

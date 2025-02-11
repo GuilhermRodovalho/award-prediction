@@ -10,6 +10,7 @@ python = "^3.12"
 ruff = "^0.8.2"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.32.3"
+selenium = "^4.28.1"
 
 
 [build-system]
