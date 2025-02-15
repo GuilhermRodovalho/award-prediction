@@ -120,26 +120,28 @@ class MetacriticScraper:
         reviews = []
         cerimony_date_obj = datetime.strptime(cerimony_date, "%d/%m/%Y").date()
 
-        print(f"Found {len(soup.find_all('div', class_='c-siteReviewHeader_reviewScore'))} reviews")
+        print(f"Found {len(soup.find_all('div', class_='c-siteReview'))} reviews")
         with open("soup.html", "w") as f:
             f.write(str(soup))
 
-        for review in soup.find_all("div", class_="c-siteReviewHeader_reviewScore"):
+        for review in soup.find_all("div", class_="c-siteReview"):
             if "ad_unit" in review.get("class", []):
                 continue
-            score = review.find("div", class_="metascore_w")
-            if not score:
+            try:
+                score = review.find("div", class_="c-siteReviewScore").find("span").text
+            except AttributeError:
+                score = None
+            if not score:  # score is not being found
                 continue
-            score_text = score.get_text()
 
             if not critic:
-                date_str = review.find("span", class_="date")
+                date_str = review.find("div", class_="c-siteReviewHeader_reviewDate").text.strip()
                 if date_str:
-                    review_date = datetime.strptime(date_str.get_text(), "%b %d, %Y").date()
+                    review_date = datetime.strptime(date_str, "%b %d, %Y").date()
                     if review_date > cerimony_date_obj:
                         continue
 
-            reviews.append(score_text)
+            reviews.append(score)
 
         return reviews
 
@@ -226,7 +228,6 @@ def main():
                     "cerimony-date": row[1],
                     "winner": row[3],
                 }
-                break # TODO: remover após testes
 
             json.dump(movies_dict, movies_file, indent=4)
     except Exception as e:

@@ -159,7 +159,7 @@ def randomForest(opt):
 
 
 if __name__ == "__main__":
-    for name in ["oscars", "golden_globe", "golden_globe_comedy"]:
+    for name in ["oscars"]:
         print("\nResultados do " + name)
         print("\nNaive Bayes")
         naiveBayes(name)

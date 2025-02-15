@@ -11,6 +11,10 @@ ruff = "^0.8.2"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.32.3"
 selenium = "^4.28.1"
+scikit-learn = "^1.6.1"
+pandas = "^2.2.3"
+imbalanced-learn = "^0.13.0"
+matplotlib = "^3.10.0"
 
 
 [build-system]
