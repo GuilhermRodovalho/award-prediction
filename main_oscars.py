@@ -10,6 +10,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
+SEGUNDOS_PARA_ESPERAR = 1
+
 
 class MetacriticScraper:
     """
@@ -64,12 +66,13 @@ class MetacriticScraper:
             # Usar Selenium para carregar a página principal das reviews
             self.driver.get(url)
             # Pega a quantidade de reviews do produto
-            quantidade_de_reviews = int(self.driver.find_element(value="c-pageProductReviews_text", by=By.CLASS_NAME).text.split(" ")[1])
+            quantidade_de_reviews = int(self.driver.find_element(value="c-pageProductReviews_text", by=By.CLASS_NAME).text.split(" ")[1].replace(",", ""))
+
             # Scroll down até o final para carregar todas as reviews
             for _ in range(quantidade_de_reviews // 50): # Cada página tem 50 reviews
                 self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 # espera carregar a página
-                time.sleep(0.5)
+                time.sleep(SEGUNDOS_PARA_ESPERAR)
 
             soup = BeautifulSoup(self.driver.page_source, "html.parser")
         except Exception as e:
@@ -96,8 +99,7 @@ class MetacriticScraper:
         """
         try:
             date_str = (
-                soup.find("div", class_="c-movieDetails")
-                .find_all("div")[1]
+                soup.find("div", class_="c-gameDetails_ReleaseDate")
                 .find_all("span")[1]
                 .get_text()
             )
@@ -192,8 +194,8 @@ def process_reviews(scraper: MetacriticScraper, film: str, film_year: str, oscar
     """
     film_slug = slugify_film_title(film)
     paths = [
-        f"/movie/{film_slug}/{'critic-reviews' if critic else 'user-reviews'}?sort-by=date&num_items=100",
-        f"/movie/{film_slug}-{film_year}/{'critic-reviews' if critic else 'user-reviews'}?sort-by=date&num_items=100",
+        f"/game/{film_slug}/{'critic-reviews' if critic else 'user-reviews'}?sort-by=date&num_items=100",
+        f"/game/{film_slug}-{film_year}/{'critic-reviews' if critic else 'user-reviews'}?sort-by=date&num_items=100",
     ]
 
     for path in paths:
@@ -212,8 +214,8 @@ def main():
     """
     scraper = MetacriticScraper()
     try:
-        with open("oscars_2023.csv") as csv_file, open("oscar_movies_2023_data.json", "w") as movies_file:
-            movies_dict = {}
+        with open("./csv/the_game_awards.csv") as csv_file, open("the_game_awards_data.json", "w") as games_file:
+            games_dict = {}
             csv_reader = csv.reader(csv_file, delimiter=";")
             next(csv_reader)  # Ignora o cabeçalho
 
@@ -221,7 +223,7 @@ def main():
                 print(f"Processando: {row[2]}")
                 user_reviews = process_reviews(scraper, row[2], row[0], row[1], critic=False)
                 critic_reviews = process_reviews(scraper, row[2], row[0], row[1], critic=True)
-                movies_dict[row[2]] = {
+                games_dict[row[2]] = {
                     "user-reviews": user_reviews,
                     "critic-reviews": critic_reviews,
                     "year": row[0],
@@ -229,7 +231,7 @@ def main():
                     "winner": row[3],
                 }
 
-            json.dump(movies_dict, movies_file, indent=4)
+            json.dump(games_dict, games_file, indent=4)
     except Exception as e:
         print(f"Erro na execução principal: {e}")
 
