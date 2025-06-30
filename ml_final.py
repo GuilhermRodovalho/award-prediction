@@ -64,8 +64,8 @@ def generateTrainAndTest(opt):
         train_filename = "golden_globe_movies_comedy_data.json"
         test_filename = "golden_globe_movies_comedy_2023_data.json"
     elif opt == "the_game_awards":
-        train_filename = "the_game_awards_movies_data.json"
-        test_filename = "the_game_awards_2023_data.json"
+        train_filename = "the_game_awards_data.json"
+        test_filename = "the_game_awards_2024_data.json"
     else:
         print("Erro")
         exit(1)
