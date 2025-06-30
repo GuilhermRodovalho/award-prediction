@@ -1,0 +1,2893 @@
+
+[1] Processando: 'Dragon Age: Inquisition' (Ano: 2014)
+Tentando slug: dragon-age-inquisition para 'Dragon Age: Inquisition' (reviews de usuários)
+Processando jogo: dragon-age-inquisition (Ano: 2014, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/dragon-age-inquisition/user-reviews/
+Plataformas encontradas: ['xbox-one', 'playstation-3', 'xbox-360', 'pc', 'playstation-4']
+Coletando reviews para 'dragon-age-inquisition' nas plataformas: ['xbox-one', 'playstation-3', 'xbox-360', 'pc', 'playstation-4']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 194
+Todas as 194 reviews carregadas (194)
+Extraídas 57 reviews desta página
+Coletadas 57 reviews para xbox-one
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/user-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Total de reviews esperadas: 61
+Todas as 61 reviews carregadas (61)
+Extraídas 21 reviews desta página
+Coletadas 21 reviews para playstation-3
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/user-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Total de reviews esperadas: 61
+Todas as 61 reviews carregadas (61)
+Extraídas 24 reviews desta página
+Coletadas 24 reviews para xbox-360
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 1625
+Todas as 1625 reviews carregadas (1625)
+Extraídas 665 reviews desta página
+Coletadas 665 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 536
+Todas as 536 reviews carregadas (536)
+Extraídas 135 reviews desta página
+Coletadas 135 reviews para playstation-4
+Total de reviews para 'dragon-age-inquisition': 902
+Tentando slug: dragon-age-inquisition para 'Dragon Age: Inquisition' (reviews de críticos)
+Processando jogo: dragon-age-inquisition (Ano: 2014, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/dragon-age-inquisition/user-reviews/
+Plataformas encontradas: ['xbox-one', 'playstation-3', 'xbox-360', 'pc', 'playstation-4']
+Coletando reviews para 'dragon-age-inquisition' nas plataformas: ['xbox-one', 'playstation-3', 'xbox-360', 'pc', 'playstation-4']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 28
+Todas as 28 reviews carregadas (28)
+Extraídas 28 reviews desta página
+Coletadas 28 reviews para xbox-one
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/critic-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-3
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/critic-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-360
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 45
+Todas as 45 reviews carregadas (45)
+Extraídas 45 reviews desta página
+Coletadas 45 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/dragon-age-inquisition/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 43
+Todas as 43 reviews carregadas (43)
+Extraídas 43 reviews desta página
+Coletadas 43 reviews para playstation-4
+Total de reviews para 'dragon-age-inquisition': 116
+
+[2] Processando: 'Bayonetta 2' (Ano: 2014)
+Tentando slug: bayonetta-2 para 'Bayonetta 2' (reviews de usuários)
+Processando jogo: bayonetta-2 (Ano: 2014, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/bayonetta-2/user-reviews/
+Plataformas encontradas: ['wii-u', 'nintendo-switch']
+Coletando reviews para 'bayonetta-2' nas plataformas: ['wii-u', 'nintendo-switch']
+Coletando para plataforma: wii-u
+Raspando reviews de: https://www.metacritic.com/game/bayonetta-2/user-reviews/?platform=wii-u&sort-by=date&num_items=100
+Total de reviews esperadas: 225
+Todas as 225 reviews carregadas (225)
+Extraídas 100 reviews desta página
+Coletadas 100 reviews para wii-u
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/bayonetta-2/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 108
+Todas as 108 reviews carregadas (108)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'bayonetta-2': 100
+Tentando slug: bayonetta-2 para 'Bayonetta 2' (reviews de críticos)
+Processando jogo: bayonetta-2 (Ano: 2014, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/bayonetta-2/user-reviews/
+Plataformas encontradas: ['wii-u', 'nintendo-switch']
+Coletando reviews para 'bayonetta-2' nas plataformas: ['wii-u', 'nintendo-switch']
+Coletando para plataforma: wii-u
+Raspando reviews de: https://www.metacritic.com/game/bayonetta-2/critic-reviews/?platform=wii-u&sort-by=date&num_items=100
+Total de reviews esperadas: 80
+Todas as 80 reviews carregadas (80)
+Extraídas 80 reviews desta página
+Coletadas 80 reviews para wii-u
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/bayonetta-2/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 32
+Todas as 32 reviews carregadas (32)
+Extraídas 31 reviews desta página
+Coletadas 31 reviews para nintendo-switch
+Total de reviews para 'bayonetta-2': 111
+
+[3] Processando: 'Dark Souls II' (Ano: 2014)
+Tentando slug: dark-souls-ii para 'Dark Souls II' (reviews de usuários)
+Processando jogo: dark-souls-ii (Ano: 2014, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/dark-souls-ii/user-reviews/
+Plataformas encontradas: ['playstation-3', 'xbox-360', 'pc']
+Coletando reviews para 'dark-souls-ii' nas plataformas: ['playstation-3', 'xbox-360', 'pc']
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/dark-souls-ii/user-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Total de reviews esperadas: 291
+Todas as 291 reviews carregadas (291)
+Extraídas 167 reviews desta página
+Coletadas 167 reviews para playstation-3
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/dark-souls-ii/user-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Total de reviews esperadas: 259
+Todas as 259 reviews carregadas (259)
+Extraídas 150 reviews desta página
+Coletadas 150 reviews para xbox-360
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/dark-souls-ii/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 593
+Todas as 593 reviews carregadas (593)
+Extraídas 424 reviews desta página
+Coletadas 424 reviews para pc
+Total de reviews para 'dark-souls-ii': 741
+Tentando slug: dark-souls-ii para 'Dark Souls II' (reviews de críticos)
+Processando jogo: dark-souls-ii (Ano: 2014, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/dark-souls-ii/user-reviews/
+Plataformas encontradas: ['playstation-3', 'xbox-360', 'pc']
+Coletando reviews para 'dark-souls-ii' nas plataformas: ['playstation-3', 'xbox-360', 'pc']
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/dark-souls-ii/critic-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Total de reviews esperadas: 69
+Todas as 69 reviews carregadas (69)
+Extraídas 69 reviews desta página
+Coletadas 69 reviews para playstation-3
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/dark-souls-ii/critic-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Total de reviews esperadas: 30
+Todas as 30 reviews carregadas (30)
+Extraídas 30 reviews desta página
+Coletadas 30 reviews para xbox-360
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/dark-souls-ii/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 36
+Todas as 36 reviews carregadas (36)
+Extraídas 36 reviews desta página
+Coletadas 36 reviews para pc
+Total de reviews para 'dark-souls-ii': 135
+
+[4] Processando: 'Hearthstone: Heroes of Warcraft' (Ano: 2014)
+Tentando slug: hearthstone-heroes-of-warcraft para 'Hearthstone: Heroes of Warcraft' (reviews de usuários)
+Processando jogo: hearthstone-heroes-of-warcraft (Ano: 2014, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/hearthstone-heroes-of-warcraft/user-reviews/
+Plataformas encontradas: ['pc', 'ios-iphoneipad']
+Coletando reviews para 'hearthstone-heroes-of-warcraft' nas plataformas: ['pc', 'ios-iphoneipad']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/hearthstone-heroes-of-warcraft/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 634
+Todas as 634 reviews carregadas (634)
+Extraídas 256 reviews desta página
+Coletadas 256 reviews para pc
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/hearthstone-heroes-of-warcraft/user-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Total de reviews esperadas: 95
+Todas as 95 reviews carregadas (95)
+Extraídas 32 reviews desta página
+Coletadas 32 reviews para ios-iphoneipad
+Total de reviews para 'hearthstone-heroes-of-warcraft': 288
+Tentando slug: hearthstone-heroes-of-warcraft para 'Hearthstone: Heroes of Warcraft' (reviews de críticos)
+Processando jogo: hearthstone-heroes-of-warcraft (Ano: 2014, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/hearthstone-heroes-of-warcraft/user-reviews/
+Plataformas encontradas: ['pc', 'ios-iphoneipad']
+Coletando reviews para 'hearthstone-heroes-of-warcraft' nas plataformas: ['pc', 'ios-iphoneipad']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/hearthstone-heroes-of-warcraft/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 42
+Todas as 42 reviews carregadas (42)
+Extraídas 42 reviews desta página
+Coletadas 42 reviews para pc
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/hearthstone-heroes-of-warcraft/critic-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Total de reviews esperadas: 16
+Todas as 16 reviews carregadas (16)
+Extraídas 16 reviews desta página
+Coletadas 16 reviews para ios-iphoneipad
+Total de reviews para 'hearthstone-heroes-of-warcraft': 58
+
+[5] Processando: 'Middle-earth: Shadow of Mordor' (Ano: 2014)
+Tentando slug: middle-earth-shadow-of-mordor para 'Middle-earth: Shadow of Mordor' (reviews de usuários)
+Processando jogo: middle-earth-shadow-of-mordor (Ano: 2014, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'playstation-3', 'xbox-360', 'pc']
+Coletando reviews para 'middle-earth-shadow-of-mordor' nas plataformas: ['playstation-4', 'xbox-one', 'playstation-3', 'xbox-360', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 626
+Todas as 626 reviews carregadas (626)
+Extraídas 284 reviews desta página
+Coletadas 284 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 184
+Todas as 184 reviews carregadas (184)
+Extraídas 79 reviews desta página
+Coletadas 79 reviews para xbox-one
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/user-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Total de reviews esperadas: 70
+Todas as 70 reviews carregadas (70)
+Extraídas 43 reviews desta página
+Coletadas 43 reviews para playstation-3
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/user-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Total de reviews esperadas: 36
+Todas as 36 reviews carregadas (36)
+Extraídas 5 reviews desta página
+Coletadas 5 reviews para xbox-360
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 505
+Todas as 505 reviews carregadas (505)
+Extraídas 246 reviews desta página
+Coletadas 246 reviews para pc
+Total de reviews para 'middle-earth-shadow-of-mordor': 657
+Tentando slug: middle-earth-shadow-of-mordor para 'Middle-earth: Shadow of Mordor' (reviews de críticos)
+Processando jogo: middle-earth-shadow-of-mordor (Ano: 2014, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'playstation-3', 'xbox-360', 'pc']
+Coletando reviews para 'middle-earth-shadow-of-mordor' nas plataformas: ['playstation-4', 'xbox-one', 'playstation-3', 'xbox-360', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 85
+Todas as 85 reviews carregadas (85)
+Extraídas 85 reviews desta página
+Coletadas 85 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 12
+Todas as 12 reviews carregadas (12)
+Extraídas 12 reviews desta página
+Coletadas 12 reviews para xbox-one
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/critic-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-3
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/critic-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-360
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/middle-earth-shadow-of-mordor/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 17
+Todas as 17 reviews carregadas (17)
+Extraídas 17 reviews desta página
+Coletadas 17 reviews para pc
+Total de reviews para 'middle-earth-shadow-of-mordor': 114
+
+[6] Processando: 'The Witcher 3: Wild Hunt' (Ano: 2015)
+Tentando slug: the-witcher-3-wild-hunt para 'The Witcher 3: Wild Hunt' (reviews de usuários)
+Processando jogo: the-witcher-3-wild-hunt (Ano: 2015, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/the-witcher-3-wild-hunt/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando reviews para 'the-witcher-3-wild-hunt' nas plataformas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 3074
+Todas as 3074 reviews carregadas (3074)
+Extraídas 817 reviews desta página
+Coletadas 817 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 459
+Todas as 459 reviews carregadas (459)
+Extraídas 148 reviews desta página
+Coletadas 148 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 2585
+Todas as 2585 reviews carregadas (2585)
+Extraídas 688 reviews desta página
+Coletadas 688 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 31
+Todas as 31 reviews carregadas (31)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'the-witcher-3-wild-hunt': 1653
+Tentando slug: the-witcher-3-wild-hunt para 'The Witcher 3: Wild Hunt' (reviews de críticos)
+Processando jogo: the-witcher-3-wild-hunt (Ano: 2015, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/the-witcher-3-wild-hunt/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando reviews para 'the-witcher-3-wild-hunt' nas plataformas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 33
+Todas as 33 reviews carregadas (33)
+Extraídas 32 reviews desta página
+Coletadas 32 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 13
+Todas as 13 reviews carregadas (13)
+Extraídas 13 reviews desta página
+Coletadas 13 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 80
+Todas as 80 reviews carregadas (80)
+Extraídas 79 reviews desta página
+Coletadas 79 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-witcher-3-wild-hunt/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'the-witcher-3-wild-hunt': 124
+
+[7] Processando: 'Bloodborne' (Ano: 2015)
+Tentando slug: bloodborne para 'Bloodborne' (reviews de usuários)
+Processando jogo: bloodborne (Ano: 2015, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/bloodborne/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'bloodborne' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/bloodborne/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 2943
+Todas as 2943 reviews carregadas (2943)
+Extraídas 982 reviews desta página
+Coletadas 982 reviews para playstation-4
+Total de reviews para 'bloodborne': 982
+Tentando slug: bloodborne para 'Bloodborne' (reviews de críticos)
+Processando jogo: bloodborne (Ano: 2015, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/bloodborne/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'bloodborne' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/bloodborne/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 100
+Todas as 100 reviews carregadas (100)
+Extraídas 100 reviews desta página
+Coletadas 100 reviews para playstation-4
+Total de reviews para 'bloodborne': 100
+
+[8] Processando: 'Fallout 4' (Ano: 2015)
+Tentando slug: fallout-4 para 'Fallout 4' (reviews de usuários)
+Processando jogo: fallout-4 (Ano: 2015, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/fallout-4/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'fallout-4' nas plataformas: ['playstation-4', 'xbox-one', 'pc', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1476
+Todas as 1476 reviews carregadas (1476)
+Extraídas 615 reviews desta página
+Coletadas 615 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 498
+Todas as 498 reviews carregadas (498)
+Extraídas 187 reviews desta página
+Coletadas 187 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 2524
+Todas as 2524 reviews carregadas (2524)
+Extraídas 1484 reviews desta página
+Coletadas 1484 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 16
+Todas as 16 reviews carregadas (16)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 9
+Todas as 9 reviews carregadas (9)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Total de reviews para 'fallout-4': 2286
+Tentando slug: fallout-4 para 'Fallout 4' (reviews de críticos)
+Processando jogo: fallout-4 (Ano: 2015, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/fallout-4/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'fallout-4' nas plataformas: ['playstation-4', 'xbox-one', 'pc', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 59
+Todas as 59 reviews carregadas (59)
+Extraídas 58 reviews desta página
+Coletadas 58 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 40
+Todas as 40 reviews carregadas (40)
+Extraídas 39 reviews desta página
+Coletadas 39 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 40
+Todas as 40 reviews carregadas (40)
+Extraídas 38 reviews desta página
+Coletadas 38 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 3
+Todas as 3 reviews carregadas (3)
+Extraídas 3 reviews desta página
+Coletadas 3 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/fallout-4/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 2
+Todas as 2 reviews carregadas (2)
+Extraídas 2 reviews desta página
+Coletadas 2 reviews para xbox-series-x
+Total de reviews para 'fallout-4': 140
+
+[9] Processando: 'Metal Gear Solid V: The Phantom Pain' (Ano: 2015)
+Tentando slug: metal-gear-solid-v-the-phantom-pain para 'Metal Gear Solid V: The Phantom Pain' (reviews de usuários)
+Processando jogo: metal-gear-solid-v-the-phantom-pain (Ano: 2015, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/user-reviews/
+Plataformas encontradas: ['xbox-360', 'playstation-3', 'xbox-one', 'playstation-4', 'pc']
+Coletando reviews para 'metal-gear-solid-v-the-phantom-pain' nas plataformas: ['xbox-360', 'playstation-3', 'xbox-one', 'playstation-4', 'pc']
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/user-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Total de reviews esperadas: 19
+Todas as 19 reviews carregadas (19)
+Extraídas 2 reviews desta página
+Coletadas 2 reviews para xbox-360
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/user-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Total de reviews esperadas: 34
+Todas as 34 reviews carregadas (34)
+Extraídas 8 reviews desta página
+Coletadas 8 reviews para playstation-3
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 158
+Todas as 158 reviews carregadas (158)
+Extraídas 65 reviews desta página
+Coletadas 65 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1177
+Todas as 1177 reviews carregadas (1177)
+Extraídas 505 reviews desta página
+Coletadas 505 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 394
+Todas as 394 reviews carregadas (394)
+Extraídas 160 reviews desta página
+Coletadas 160 reviews para pc
+Total de reviews para 'metal-gear-solid-v-the-phantom-pain': 740
+Tentando slug: metal-gear-solid-v-the-phantom-pain para 'Metal Gear Solid V: The Phantom Pain' (reviews de críticos)
+Processando jogo: metal-gear-solid-v-the-phantom-pain (Ano: 2015, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/user-reviews/
+Plataformas encontradas: ['xbox-360', 'playstation-3', 'xbox-one', 'playstation-4', 'pc']
+Coletando reviews para 'metal-gear-solid-v-the-phantom-pain' nas plataformas: ['xbox-360', 'playstation-3', 'xbox-one', 'playstation-4', 'pc']
+Coletando para plataforma: xbox-360
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/critic-reviews/?platform=xbox-360&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-360
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/critic-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-3
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 10
+Todas as 10 reviews carregadas (10)
+Extraídas 10 reviews desta página
+Coletadas 10 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 88
+Todas as 88 reviews carregadas (88)
+Extraídas 86 reviews desta página
+Coletadas 86 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/metal-gear-solid-v-the-phantom-pain/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 14
+Todas as 14 reviews carregadas (14)
+Extraídas 13 reviews desta página
+Coletadas 13 reviews para pc
+Total de reviews para 'metal-gear-solid-v-the-phantom-pain': 109
+
+[10] Processando: 'Super Mario Maker' (Ano: 2015)
+Tentando slug: super-mario-maker para 'Super Mario Maker' (reviews de usuários)
+Processando jogo: super-mario-maker (Ano: 2015, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/super-mario-maker/user-reviews/
+Plataformas encontradas: ['wii-u', '3ds']
+Coletando reviews para 'super-mario-maker' nas plataformas: ['wii-u', '3ds']
+Coletando para plataforma: wii-u
+Raspando reviews de: https://www.metacritic.com/game/super-mario-maker/user-reviews/?platform=wii-u&sort-by=date&num_items=100
+Total de reviews esperadas: 212
+Todas as 212 reviews carregadas (212)
+Extraídas 92 reviews desta página
+Coletadas 92 reviews para wii-u
+Coletando para plataforma: 3ds
+Raspando reviews de: https://www.metacritic.com/game/super-mario-maker/user-reviews/?platform=3ds&sort-by=date&num_items=100
+Total de reviews esperadas: 59
+Todas as 59 reviews carregadas (59)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para 3ds
+Total de reviews para 'super-mario-maker': 92
+Tentando slug: super-mario-maker para 'Super Mario Maker' (reviews de críticos)
+Processando jogo: super-mario-maker (Ano: 2015, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/super-mario-maker/user-reviews/
+Plataformas encontradas: ['wii-u', '3ds']
+Coletando reviews para 'super-mario-maker' nas plataformas: ['wii-u', '3ds']
+Coletando para plataforma: wii-u
+Raspando reviews de: https://www.metacritic.com/game/super-mario-maker/critic-reviews/?platform=wii-u&sort-by=date&num_items=100
+Total de reviews esperadas: 87
+Todas as 87 reviews carregadas (87)
+Extraídas 85 reviews desta página
+Coletadas 85 reviews para wii-u
+Coletando para plataforma: 3ds
+Raspando reviews de: https://www.metacritic.com/game/super-mario-maker/critic-reviews/?platform=3ds&sort-by=date&num_items=100
+Total de reviews esperadas: 58
+Todas as 58 reviews carregadas (58)
+Extraídas 56 reviews desta página
+Coletadas 56 reviews para 3ds
+Total de reviews para 'super-mario-maker': 141
+
+[11] Processando: 'Overwatch' (Ano: 2016)
+Tentando slug: overwatch para 'Overwatch' (reviews de usuários)
+Processando jogo: overwatch (Ano: 2016, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/overwatch/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando reviews para 'overwatch' nas plataformas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/overwatch/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 1546
+Todas as 1546 reviews carregadas (1546)
+Extraídas 760 reviews desta página
+Coletadas 760 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/overwatch/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 469
+Todas as 469 reviews carregadas (469)
+Extraídas 234 reviews desta página
+Coletadas 234 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/overwatch/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 186
+Todas as 186 reviews carregadas (186)
+Extraídas 100 reviews desta página
+Coletadas 100 reviews para xbox-one
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/overwatch/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 49
+Todas as 49 reviews carregadas (49)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'overwatch': 1094
+Tentando slug: overwatch para 'Overwatch' (reviews de críticos)
+Processando jogo: overwatch (Ano: 2016, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/overwatch/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando reviews para 'overwatch' nas plataformas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/overwatch/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 68
+Todas as 68 reviews carregadas (68)
+Extraídas 64 reviews desta página
+Coletadas 64 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/overwatch/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 32
+Todas as 32 reviews carregadas (32)
+Extraídas 31 reviews desta página
+Coletadas 31 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/overwatch/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 19
+Todas as 19 reviews carregadas (19)
+Extraídas 18 reviews desta página
+Coletadas 18 reviews para xbox-one
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/overwatch/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 52
+Todas as 52 reviews carregadas (52)
+Extraídas 48 reviews desta página
+Coletadas 48 reviews para nintendo-switch
+Total de reviews para 'overwatch': 161
+
+[12] Processando: 'Doom' (Ano: 2016)
+Tentando slug: doom para 'Doom' (reviews de usuários)
+Processando jogo: doom (Ano: 2016, Tipo: user)
+AVISO: Ano de lançamento diverge. CSV: 2016, Metacritic: 2017
+Buscando plataformas em: https://www.metacritic.com/game/doom/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando reviews para 'doom' nas plataformas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/doom/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 795
+Todas as 795 reviews carregadas (795)
+Extraídas 356 reviews desta página
+Coletadas 356 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/doom/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 214
+Todas as 214 reviews carregadas (214)
+Extraídas 111 reviews desta página
+Coletadas 111 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/doom/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 611
+Todas as 611 reviews carregadas (611)
+Extraídas 292 reviews desta página
+Coletadas 292 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/doom/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 184
+Todas as 184 reviews carregadas (184)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'doom': 759
+Tentando slug: doom para 'Doom' (reviews de críticos)
+Processando jogo: doom (Ano: 2016, Tipo: critic)
+AVISO: Ano de lançamento diverge. CSV: 2016, Metacritic: 2017
+Buscando plataformas em: https://www.metacritic.com/game/doom/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando reviews para 'doom' nas plataformas: ['pc', 'xbox-one', 'playstation-4', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/doom/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 48
+Todas as 48 reviews carregadas (48)
+Extraídas 44 reviews desta página
+Coletadas 44 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/doom/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 25
+Todas as 25 reviews carregadas (25)
+Extraídas 25 reviews desta página
+Coletadas 25 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/doom/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 63
+Todas as 63 reviews carregadas (63)
+Extraídas 61 reviews desta página
+Coletadas 61 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/doom/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 73
+Todas as 73 reviews carregadas (73)
+Extraídas 66 reviews desta página
+Coletadas 66 reviews para nintendo-switch
+Total de reviews para 'doom': 196
+
+[13] Processando: 'Inside' (Ano: 2016)
+Tentando slug: inside para 'Inside' (reviews de usuários)
+Processando jogo: inside (Ano: 2016, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/inside/user-reviews/
+Plataformas encontradas: ['xbox-one', 'pc', 'playstation-4', 'nintendo-switch', 'ios-iphoneipad']
+Coletando reviews para 'inside' nas plataformas: ['xbox-one', 'pc', 'playstation-4', 'nintendo-switch', 'ios-iphoneipad']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/inside/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 161
+Todas as 161 reviews carregadas (161)
+Extraídas 66 reviews desta página
+Coletadas 66 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/inside/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 267
+Todas as 267 reviews carregadas (267)
+Extraídas 53 reviews desta página
+Coletadas 53 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/inside/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 193
+Todas as 193 reviews carregadas (193)
+Extraídas 31 reviews desta página
+Coletadas 31 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/inside/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 83
+Todas as 83 reviews carregadas (83)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/inside/user-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Total de reviews esperadas: 3
+Todas as 3 reviews carregadas (3)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para ios-iphoneipad
+Total de reviews para 'inside': 150
+Tentando slug: inside para 'Inside' (reviews de críticos)
+Processando jogo: inside (Ano: 2016, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/inside/user-reviews/
+Plataformas encontradas: ['xbox-one', 'pc', 'playstation-4', 'nintendo-switch', 'ios-iphoneipad']
+Coletando reviews para 'inside' nas plataformas: ['xbox-one', 'pc', 'playstation-4', 'nintendo-switch', 'ios-iphoneipad']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/inside/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 92
+Todas as 92 reviews carregadas (92)
+Extraídas 87 reviews desta página
+Coletadas 87 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/inside/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 23
+Todas as 23 reviews carregadas (23)
+Extraídas 22 reviews desta página
+Coletadas 22 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/inside/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 18
+Todas as 18 reviews carregadas (18)
+Extraídas 18 reviews desta página
+Coletadas 18 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/inside/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 30
+Todas as 30 reviews carregadas (30)
+Extraídas 30 reviews desta página
+Coletadas 30 reviews para nintendo-switch
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/inside/critic-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Total de reviews esperadas: 3
+Todas as 3 reviews carregadas (3)
+Extraídas 3 reviews desta página
+Coletadas 3 reviews para ios-iphoneipad
+Total de reviews para 'inside': 160
+
+[14] Processando: 'Titanfall 2' (Ano: 2016)
+Tentando slug: titanfall-2 para 'Titanfall 2' (reviews de usuários)
+Processando jogo: titanfall-2 (Ano: 2016, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/titanfall-2/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4']
+Coletando reviews para 'titanfall-2' nas plataformas: ['pc', 'xbox-one', 'playstation-4']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/titanfall-2/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 444
+Todas as 444 reviews carregadas (444)
+Extraídas 109 reviews desta página
+Coletadas 109 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/titanfall-2/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 197
+Todas as 197 reviews carregadas (197)
+Extraídas 53 reviews desta página
+Coletadas 53 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/titanfall-2/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 551
+Todas as 551 reviews carregadas (551)
+Extraídas 129 reviews desta página
+Coletadas 129 reviews para playstation-4
+Total de reviews para 'titanfall-2': 291
+Tentando slug: titanfall-2 para 'Titanfall 2' (reviews de críticos)
+Processando jogo: titanfall-2 (Ano: 2016, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/titanfall-2/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4']
+Coletando reviews para 'titanfall-2' nas plataformas: ['pc', 'xbox-one', 'playstation-4']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/titanfall-2/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 31
+Todas as 31 reviews carregadas (31)
+Extraídas 30 reviews desta página
+Coletadas 30 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/titanfall-2/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 32
+Todas as 32 reviews carregadas (32)
+Extraídas 32 reviews desta página
+Coletadas 32 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/titanfall-2/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 64
+Todas as 64 reviews carregadas (64)
+Extraídas 61 reviews desta página
+Coletadas 61 reviews para playstation-4
+Total de reviews para 'titanfall-2': 123
+
+[15] Processando: 'Uncharted 4: A Thief's End' (Ano: 2016)
+Tentando slug: uncharted-4-a-thiefs-end para 'Uncharted 4: A Thief's End' (reviews de usuários)
+Processando jogo: uncharted-4-a-thiefs-end (Ano: 2016, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/uncharted-4-a-thiefs-end/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'uncharted-4-a-thiefs-end' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/uncharted-4-a-thiefs-end/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 2960
+Todas as 2960 reviews carregadas (2960)
+Extraídas 1293 reviews desta página
+Coletadas 1293 reviews para playstation-4
+Total de reviews para 'uncharted-4-a-thiefs-end': 1293
+Tentando slug: uncharted-4-a-thiefs-end para 'Uncharted 4: A Thief's End' (reviews de críticos)
+Processando jogo: uncharted-4-a-thiefs-end (Ano: 2016, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/uncharted-4-a-thiefs-end/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'uncharted-4-a-thiefs-end' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/uncharted-4-a-thiefs-end/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 119
+Todas as 119 reviews carregadas (119)
+Extraídas 113 reviews desta página
+Coletadas 113 reviews para playstation-4
+Total de reviews para 'uncharted-4-a-thiefs-end': 113
+
+[16] Processando: 'The Legend of Zelda: Breath of the Wild' (Ano: 2017)
+Tentando slug: the-legend-of-zelda-breath-of-the-wild para 'The Legend of Zelda: Breath of the Wild' (reviews de usuários)
+Processando jogo: the-legend-of-zelda-breath-of-the-wild (Ano: 2017, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/the-legend-of-zelda-breath-of-the-wild/user-reviews/
+Plataformas encontradas: ['wii-u', 'nintendo-switch']
+Coletando reviews para 'the-legend-of-zelda-breath-of-the-wild' nas plataformas: ['wii-u', 'nintendo-switch']
+Coletando para plataforma: wii-u
+Raspando reviews de: https://www.metacritic.com/game/the-legend-of-zelda-breath-of-the-wild/user-reviews/?platform=wii-u&sort-by=date&num_items=100
+Total de reviews esperadas: 584
+Todas as 584 reviews carregadas (584)
+Extraídas 392 reviews desta página
+Coletadas 392 reviews para wii-u
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-legend-of-zelda-breath-of-the-wild/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 6409
+Todas as 6409 reviews carregadas (6409)
+Extraídas 2472 reviews desta página
+Coletadas 2472 reviews para nintendo-switch
+Total de reviews para 'the-legend-of-zelda-breath-of-the-wild': 2864
+Tentando slug: the-legend-of-zelda-breath-of-the-wild para 'The Legend of Zelda: Breath of the Wild' (reviews de críticos)
+Processando jogo: the-legend-of-zelda-breath-of-the-wild (Ano: 2017, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/the-legend-of-zelda-breath-of-the-wild/user-reviews/
+Plataformas encontradas: ['wii-u', 'nintendo-switch']
+Coletando reviews para 'the-legend-of-zelda-breath-of-the-wild' nas plataformas: ['wii-u', 'nintendo-switch']
+Coletando para plataforma: wii-u
+Raspando reviews de: https://www.metacritic.com/game/the-legend-of-zelda-breath-of-the-wild/critic-reviews/?platform=wii-u&sort-by=date&num_items=100
+Total de reviews esperadas: 13
+Todas as 13 reviews carregadas (13)
+Extraídas 13 reviews desta página
+Coletadas 13 reviews para wii-u
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-legend-of-zelda-breath-of-the-wild/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 117
+Todas as 117 reviews carregadas (117)
+Extraídas 109 reviews desta página
+Coletadas 109 reviews para nintendo-switch
+Total de reviews para 'the-legend-of-zelda-breath-of-the-wild': 122
+
+[17] Processando: 'Horizon Zero Dawn' (Ano: 2017)
+Tentando slug: horizon-zero-dawn para 'Horizon Zero Dawn' (reviews de usuários)
+Processando jogo: horizon-zero-dawn (Ano: 2017, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/horizon-zero-dawn/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'horizon-zero-dawn' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/horizon-zero-dawn/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 2931
+Todas as 2931 reviews carregadas (2931)
+Extraídas 1065 reviews desta página
+Coletadas 1065 reviews para playstation-4
+Total de reviews para 'horizon-zero-dawn': 1065
+Tentando slug: horizon-zero-dawn para 'Horizon Zero Dawn' (reviews de críticos)
+Processando jogo: horizon-zero-dawn (Ano: 2017, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/horizon-zero-dawn/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'horizon-zero-dawn' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/horizon-zero-dawn/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 124
+Todas as 124 reviews carregadas (124)
+Extraídas 115 reviews desta página
+Coletadas 115 reviews para playstation-4
+Total de reviews para 'horizon-zero-dawn': 115
+
+[18] Processando: 'Persona 5' (Ano: 2017)
+Tentando slug: persona-5 para 'Persona 5' (reviews de usuários)
+Processando jogo: persona-5 (Ano: 2017, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/persona-5/user-reviews/
+Plataformas encontradas: ['playstation-3', 'playstation-4']
+Coletando reviews para 'persona-5' nas plataformas: ['playstation-3', 'playstation-4']
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/persona-5/user-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Total de reviews esperadas: 43
+Todas as 43 reviews carregadas (43)
+Extraídas 8 reviews desta página
+Coletadas 8 reviews para playstation-3
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/persona-5/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1169
+Todas as 1169 reviews carregadas (1169)
+Extraídas 390 reviews desta página
+Coletadas 390 reviews para playstation-4
+Total de reviews para 'persona-5': 398
+Tentando slug: persona-5 para 'Persona 5' (reviews de críticos)
+Processando jogo: persona-5 (Ano: 2017, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/persona-5/user-reviews/
+Plataformas encontradas: ['playstation-3', 'playstation-4']
+Coletando reviews para 'persona-5' nas plataformas: ['playstation-3', 'playstation-4']
+Coletando para plataforma: playstation-3
+Raspando reviews de: https://www.metacritic.com/game/persona-5/critic-reviews/?platform=playstation-3&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-3
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/persona-5/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 106
+Todas as 106 reviews carregadas (106)
+Extraídas 98 reviews desta página
+Coletadas 98 reviews para playstation-4
+Total de reviews para 'persona-5': 98
+
+[19] Processando: 'PlayerUnknown's Battlegrounds' (Ano: 2017)
+Tentando slug: playerunknowns-battlegrounds para 'PlayerUnknown's Battlegrounds' (reviews de usuários)
+Processando jogo: playerunknowns-battlegrounds (Ano: 2017, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/playerunknowns-battlegrounds/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4']
+Coletando reviews para 'playerunknowns-battlegrounds' nas plataformas: ['pc', 'xbox-one', 'playstation-4']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/playerunknowns-battlegrounds/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 467
+Todas as 467 reviews carregadas (467)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/playerunknowns-battlegrounds/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 43
+Todas as 43 reviews carregadas (43)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/playerunknowns-battlegrounds/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 56
+Todas as 56 reviews carregadas (56)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-4
+Total de reviews para 'playerunknowns-battlegrounds': 0
+Tentando slug: playerunknowns-battlegrounds para 'PlayerUnknown's Battlegrounds' (reviews de críticos)
+Processando jogo: playerunknowns-battlegrounds (Ano: 2017, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/playerunknowns-battlegrounds/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4']
+Coletando reviews para 'playerunknowns-battlegrounds' nas plataformas: ['pc', 'xbox-one', 'playstation-4']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/playerunknowns-battlegrounds/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 52
+Todas as 52 reviews carregadas (52)
+Extraídas 46 reviews desta página
+Coletadas 46 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/playerunknowns-battlegrounds/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 17
+Todas as 17 reviews carregadas (17)
+Extraídas 12 reviews desta página
+Coletadas 12 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/playerunknowns-battlegrounds/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 29
+Todas as 29 reviews carregadas (29)
+Extraídas 29 reviews desta página
+Coletadas 29 reviews para playstation-4
+Total de reviews para 'playerunknowns-battlegrounds': 87
+
+[20] Processando: 'Super Mario Odyssey' (Ano: 2017)
+Tentando slug: super-mario-odyssey para 'Super Mario Odyssey' (reviews de usuários)
+Processando jogo: super-mario-odyssey (Ano: 2017, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/super-mario-odyssey/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'super-mario-odyssey' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/super-mario-odyssey/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 2481
+Todas as 2481 reviews carregadas (2481)
+Extraídas 598 reviews desta página
+Coletadas 598 reviews para nintendo-switch
+Total de reviews para 'super-mario-odyssey': 598
+Tentando slug: super-mario-odyssey para 'Super Mario Odyssey' (reviews de críticos)
+Processando jogo: super-mario-odyssey (Ano: 2017, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/super-mario-odyssey/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'super-mario-odyssey' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/super-mario-odyssey/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 124
+Todas as 124 reviews carregadas (124)
+Extraídas 114 reviews desta página
+Coletadas 114 reviews para nintendo-switch
+Total de reviews para 'super-mario-odyssey': 114
+
+[21] Processando: 'God of War' (Ano: 2018)
+Tentando slug: god-of-war para 'God of War' (reviews de usuários)
+Processando jogo: god-of-war (Ano: 2018, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/god-of-war/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc']
+Coletando reviews para 'god-of-war' nas plataformas: ['playstation-4', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/god-of-war/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 6342
+Todas as 6342 reviews carregadas (6342)
+Extraídas 2293 reviews desta página
+Coletadas 2293 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/god-of-war/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 454
+Todas as 454 reviews carregadas (454)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para pc
+Total de reviews para 'god-of-war': 2293
+Tentando slug: god-of-war para 'God of War' (reviews de críticos)
+Processando jogo: god-of-war (Ano: 2018, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/god-of-war/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc']
+Coletando reviews para 'god-of-war' nas plataformas: ['playstation-4', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/god-of-war/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 131
+Todas as 131 reviews carregadas (131)
+Extraídas 118 reviews desta página
+Coletadas 118 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/god-of-war/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 68
+Todas as 68 reviews carregadas (68)
+Extraídas 61 reviews desta página
+Coletadas 61 reviews para pc
+Total de reviews para 'god-of-war': 179
+
+[22] Processando: 'Assassin's Creed Odyssey' (Ano: 2018)
+Tentando slug: assassins-creed-odyssey para 'Assassin's Creed Odyssey' (reviews de usuários)
+Processando jogo: assassins-creed-odyssey (Ano: 2018, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/assassins-creed-odyssey/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc', 'nintendo-switch']
+Coletando reviews para 'assassins-creed-odyssey' nas plataformas: ['playstation-4', 'xbox-one', 'pc', 'nintendo-switch']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1174
+Todas as 1174 reviews carregadas (1174)
+Extraídas 262 reviews desta página
+Coletadas 262 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 251
+Todas as 251 reviews carregadas (251)
+Extraídas 62 reviews desta página
+Coletadas 62 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 704
+Todas as 704 reviews carregadas (704)
+Extraídas 173 reviews desta página
+Coletadas 173 reviews para pc
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'assassins-creed-odyssey': 497
+Tentando slug: assassins-creed-odyssey para 'Assassin's Creed Odyssey' (reviews de críticos)
+Processando jogo: assassins-creed-odyssey (Ano: 2018, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/assassins-creed-odyssey/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc', 'nintendo-switch']
+Coletando reviews para 'assassins-creed-odyssey' nas plataformas: ['playstation-4', 'xbox-one', 'pc', 'nintendo-switch']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 95
+Todas as 95 reviews carregadas (95)
+Extraídas 86 reviews desta página
+Coletadas 86 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 34
+Todas as 34 reviews carregadas (34)
+Extraídas 34 reviews desta página
+Coletadas 34 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 17
+Todas as 17 reviews carregadas (17)
+Extraídas 14 reviews desta página
+Coletadas 14 reviews para pc
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/assassins-creed-odyssey/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'assassins-creed-odyssey': 134
+
+[23] Processando: 'Celeste' (Ano: 2018)
+Tentando slug: celeste para 'Celeste' (reviews de usuários)
+Processando jogo: celeste (Ano: 2018, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/celeste/user-reviews/
+Plataformas encontradas: ['playstation-4', 'nintendo-switch', 'pc', 'xbox-one']
+Coletando reviews para 'celeste' nas plataformas: ['playstation-4', 'nintendo-switch', 'pc', 'xbox-one']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/celeste/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 118
+Todas as 118 reviews carregadas (118)
+Extraídas 26 reviews desta página
+Coletadas 26 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/celeste/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 427
+Todas as 427 reviews carregadas (427)
+Extraídas 96 reviews desta página
+Coletadas 96 reviews para nintendo-switch
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/celeste/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 275
+Todas as 275 reviews carregadas (275)
+Extraídas 34 reviews desta página
+Coletadas 34 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/celeste/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 83
+Todas as 83 reviews carregadas (83)
+Extraídas 11 reviews desta página
+Coletadas 11 reviews para xbox-one
+Total de reviews para 'celeste': 167
+Tentando slug: celeste para 'Celeste' (reviews de críticos)
+Processando jogo: celeste (Ano: 2018, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/celeste/user-reviews/
+Plataformas encontradas: ['playstation-4', 'nintendo-switch', 'pc', 'xbox-one']
+Coletando reviews para 'celeste' nas plataformas: ['playstation-4', 'nintendo-switch', 'pc', 'xbox-one']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/celeste/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 7
+Todas as 7 reviews carregadas (7)
+Extraídas 7 reviews desta página
+Coletadas 7 reviews para playstation-4
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/celeste/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 37
+Todas as 37 reviews carregadas (37)
+Extraídas 36 reviews desta página
+Coletadas 36 reviews para nintendo-switch
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/celeste/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 22
+Todas as 22 reviews carregadas (22)
+Extraídas 18 reviews desta página
+Coletadas 18 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/celeste/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 10
+Todas as 10 reviews carregadas (10)
+Extraídas 10 reviews desta página
+Coletadas 10 reviews para xbox-one
+Total de reviews para 'celeste': 71
+
+[24] Processando: 'Marvel's Spider-Man' (Ano: 2018)
+Tentando slug: marvels-spider-man para 'Marvel's Spider-Man' (reviews de usuários)
+Processando jogo: marvels-spider-man (Ano: 2018, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/marvels-spider-man/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'marvels-spider-man' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/marvels-spider-man/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 2644
+Todas as 2644 reviews carregadas (2644)
+Extraídas 711 reviews desta página
+Coletadas 711 reviews para playstation-4
+Total de reviews para 'marvels-spider-man': 711
+Tentando slug: marvels-spider-man para 'Marvel's Spider-Man' (reviews de críticos)
+Processando jogo: marvels-spider-man (Ano: 2018, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/marvels-spider-man/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'marvels-spider-man' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/marvels-spider-man/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 129
+Todas as 129 reviews carregadas (129)
+Extraídas 116 reviews desta página
+Coletadas 116 reviews para playstation-4
+Total de reviews para 'marvels-spider-man': 116
+
+[25] Processando: 'Monster Hunter: World' (Ano: 2018)
+Tentando slug: monster-hunter-world para 'Monster Hunter: World' (reviews de usuários)
+Processando jogo: monster-hunter-world (Ano: 2018, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/monster-hunter-world/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc']
+Coletando reviews para 'monster-hunter-world' nas plataformas: ['playstation-4', 'xbox-one', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/monster-hunter-world/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 531
+Todas as 531 reviews carregadas (531)
+Extraídas 305 reviews desta página
+Coletadas 305 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/monster-hunter-world/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 107
+Todas as 107 reviews carregadas (107)
+Extraídas 65 reviews desta página
+Coletadas 65 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/monster-hunter-world/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 231
+Todas as 231 reviews carregadas (231)
+Extraídas 75 reviews desta página
+Coletadas 75 reviews para pc
+Total de reviews para 'monster-hunter-world': 445
+Tentando slug: monster-hunter-world para 'Monster Hunter: World' (reviews de críticos)
+Processando jogo: monster-hunter-world (Ano: 2018, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/monster-hunter-world/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc']
+Coletando reviews para 'monster-hunter-world' nas plataformas: ['playstation-4', 'xbox-one', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/monster-hunter-world/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 100
+Todas as 100 reviews carregadas (100)
+Extraídas 93 reviews desta página
+Coletadas 93 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/monster-hunter-world/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 17
+Todas as 17 reviews carregadas (17)
+Extraídas 17 reviews desta página
+Coletadas 17 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/monster-hunter-world/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 38
+Todas as 38 reviews carregadas (38)
+Extraídas 34 reviews desta página
+Coletadas 34 reviews para pc
+Total de reviews para 'monster-hunter-world': 144
+
+[26] Processando: 'Red Dead Redemption 2' (Ano: 2018)
+Tentando slug: red-dead-redemption-2 para 'Red Dead Redemption 2' (reviews de usuários)
+Processando jogo: red-dead-redemption-2 (Ano: 2018, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/red-dead-redemption-2/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc']
+Coletando reviews para 'red-dead-redemption-2' nas plataformas: ['playstation-4', 'xbox-one', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/red-dead-redemption-2/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 6657
+Todas as 6657 reviews carregadas (6657)
+Extraídas 1569 reviews desta página
+Coletadas 1569 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/red-dead-redemption-2/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 1270
+Todas as 1270 reviews carregadas (1270)
+Extraídas 380 reviews desta página
+Coletadas 380 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/red-dead-redemption-2/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 2332
+Todas as 2332 reviews carregadas (2332)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para pc
+Total de reviews para 'red-dead-redemption-2': 1949
+Tentando slug: red-dead-redemption-2 para 'Red Dead Redemption 2' (reviews de críticos)
+Processando jogo: red-dead-redemption-2 (Ano: 2018, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/red-dead-redemption-2/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc']
+Coletando reviews para 'red-dead-redemption-2' nas plataformas: ['playstation-4', 'xbox-one', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/red-dead-redemption-2/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 109
+Todas as 109 reviews carregadas (109)
+Extraídas 99 reviews desta página
+Coletadas 99 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/red-dead-redemption-2/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 34
+Todas as 34 reviews carregadas (34)
+Extraídas 33 reviews desta página
+Coletadas 33 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/red-dead-redemption-2/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 49
+Todas as 49 reviews carregadas (49)
+Extraídas 44 reviews desta página
+Coletadas 44 reviews para pc
+Total de reviews para 'red-dead-redemption-2': 176
+
+[27] Processando: 'Sekiro: Shadows Die Twice' (Ano: 2019)
+Tentando slug: sekiro-shadows-die-twice para 'Sekiro: Shadows Die Twice' (reviews de usuários)
+Processando jogo: sekiro-shadows-die-twice (Ano: 2019, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/sekiro-shadows-die-twice/user-reviews/
+Plataformas encontradas: ['xbox-one', 'playstation-4', 'pc']
+Coletando reviews para 'sekiro-shadows-die-twice' nas plataformas: ['xbox-one', 'playstation-4', 'pc']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/sekiro-shadows-die-twice/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 293
+Todas as 293 reviews carregadas (293)
+Extraídas 82 reviews desta página
+Coletadas 82 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/sekiro-shadows-die-twice/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1615
+Todas as 1615 reviews carregadas (1615)
+Extraídas 525 reviews desta página
+Coletadas 525 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/sekiro-shadows-die-twice/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 963
+Todas as 963 reviews carregadas (963)
+Extraídas 249 reviews desta página
+Coletadas 249 reviews para pc
+Total de reviews para 'sekiro-shadows-die-twice': 856
+Tentando slug: sekiro-shadows-die-twice para 'Sekiro: Shadows Die Twice' (reviews de críticos)
+Processando jogo: sekiro-shadows-die-twice (Ano: 2019, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/sekiro-shadows-die-twice/user-reviews/
+Plataformas encontradas: ['xbox-one', 'playstation-4', 'pc']
+Coletando reviews para 'sekiro-shadows-die-twice' nas plataformas: ['xbox-one', 'playstation-4', 'pc']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/sekiro-shadows-die-twice/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 31
+Todas as 31 reviews carregadas (31)
+Extraídas 31 reviews desta página
+Coletadas 31 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/sekiro-shadows-die-twice/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 89
+Todas as 89 reviews carregadas (89)
+Extraídas 77 reviews desta página
+Coletadas 77 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/sekiro-shadows-die-twice/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 27
+Todas as 27 reviews carregadas (27)
+Extraídas 25 reviews desta página
+Coletadas 25 reviews para pc
+Total de reviews para 'sekiro-shadows-die-twice': 133
+
+[28] Processando: 'Control' (Ano: 2019)
+Tentando slug: control para 'Control' (reviews de usuários)
+Processando jogo: control (Ano: 2019, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/control/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc', 'xbox-one']
+Coletando reviews para 'control' nas plataformas: ['playstation-4', 'pc', 'xbox-one']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/control/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 848
+Todas as 848 reviews carregadas (848)
+Extraídas 278 reviews desta página
+Coletadas 278 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/control/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 429
+Todas as 429 reviews carregadas (429)
+Extraídas 154 reviews desta página
+Coletadas 154 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/control/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 119
+Todas as 119 reviews carregadas (119)
+Extraídas 35 reviews desta página
+Coletadas 35 reviews para xbox-one
+Total de reviews para 'control': 467
+Tentando slug: control para 'Control' (reviews de críticos)
+Processando jogo: control (Ano: 2019, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/control/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc', 'xbox-one']
+Coletando reviews para 'control' nas plataformas: ['playstation-4', 'pc', 'xbox-one']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/control/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 70
+Todas as 70 reviews carregadas (70)
+Extraídas 63 reviews desta página
+Coletadas 63 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/control/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 36
+Todas as 36 reviews carregadas (36)
+Extraídas 33 reviews desta página
+Coletadas 33 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/control/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 33
+Todas as 33 reviews carregadas (33)
+Extraídas 31 reviews desta página
+Coletadas 31 reviews para xbox-one
+Total de reviews para 'control': 127
+
+[29] Processando: 'Death Stranding' (Ano: 2019)
+Tentando slug: death-stranding para 'Death Stranding' (reviews de usuários)
+Processando jogo: death-stranding (Ano: 2019, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/death-stranding/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc']
+Coletando reviews para 'death-stranding' nas plataformas: ['playstation-4', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/death-stranding/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 8330
+Todas as 8330 reviews carregadas (8330)
+Extraídas 6113 reviews desta página
+Coletadas 6113 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/death-stranding/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 748
+Todas as 748 reviews carregadas (748)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para pc
+Total de reviews para 'death-stranding': 6113
+Tentando slug: death-stranding para 'Death Stranding' (reviews de críticos)
+Processando jogo: death-stranding (Ano: 2019, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/death-stranding/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc']
+Coletando reviews para 'death-stranding' nas plataformas: ['playstation-4', 'pc']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/death-stranding/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 122
+Todas as 122 reviews carregadas (122)
+Extraídas 111 reviews desta página
+Coletadas 111 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/death-stranding/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 58
+Todas as 58 reviews carregadas (58)
+Extraídas 54 reviews desta página
+Coletadas 54 reviews para pc
+Total de reviews para 'death-stranding': 165
+
+[30] Processando: 'Resident Evil 2' (Ano: 2019)
+Tentando slug: resident-evil-2 para 'Resident Evil 2' (reviews de usuários)
+Processando jogo: resident-evil-2 (Ano: 2019, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/resident-evil-2/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc', 'xbox-series-x', 'playstation-5', 'ios-iphoneipad', 'nintendo-switch']
+Coletando reviews para 'resident-evil-2' nas plataformas: ['playstation-4', 'xbox-one', 'pc', 'xbox-series-x', 'playstation-5', 'ios-iphoneipad', 'nintendo-switch']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1103
+Todas as 1103 reviews carregadas (1103)
+Extraídas 471 reviews desta página
+Coletadas 471 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 192
+Todas as 192 reviews carregadas (192)
+Extraídas 94 reviews desta página
+Coletadas 94 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 506
+Todas as 506 reviews carregadas (506)
+Extraídas 211 reviews desta página
+Coletadas 211 reviews para pc
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 23
+Todas as 23 reviews carregadas (23)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 38
+Todas as 38 reviews carregadas (38)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-5
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/user-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para ios-iphoneipad
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'resident-evil-2': 776
+Tentando slug: resident-evil-2 para 'Resident Evil 2' (reviews de críticos)
+Processando jogo: resident-evil-2 (Ano: 2019, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/resident-evil-2/user-reviews/
+Plataformas encontradas: ['playstation-4', 'xbox-one', 'pc', 'xbox-series-x', 'playstation-5', 'ios-iphoneipad', 'nintendo-switch']
+Coletando reviews para 'resident-evil-2' nas plataformas: ['playstation-4', 'xbox-one', 'pc', 'xbox-series-x', 'playstation-5', 'ios-iphoneipad', 'nintendo-switch']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 94
+Todas as 94 reviews carregadas (94)
+Extraídas 85 reviews desta página
+Coletadas 85 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 29
+Todas as 29 reviews carregadas (29)
+Extraídas 27 reviews desta página
+Coletadas 27 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 30
+Todas as 30 reviews carregadas (30)
+Extraídas 28 reviews desta página
+Coletadas 28 reviews para pc
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 2
+Todas as 2 reviews carregadas (2)
+Extraídas 2 reviews desta página
+Coletadas 2 reviews para playstation-5
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para ios-iphoneipad
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-2/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para nintendo-switch
+Total de reviews para 'resident-evil-2': 144
+
+[31] Processando: 'Super Smash Bros. Ultimate' (Ano: 2019)
+Tentando slug: super-smash-bros-ultimate para 'Super Smash Bros. Ultimate' (reviews de usuários)
+Processando jogo: super-smash-bros-ultimate (Ano: 2019, Tipo: user)
+AVISO: Ano de lançamento diverge. CSV: 2019, Metacritic: 2018
+Buscando plataformas em: https://www.metacritic.com/game/super-smash-bros-ultimate/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'super-smash-bros-ultimate' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/super-smash-bros-ultimate/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 1457
+Todas as 1457 reviews carregadas (1457)
+Extraídas 740 reviews desta página
+Coletadas 740 reviews para nintendo-switch
+Total de reviews para 'super-smash-bros-ultimate': 740
+Tentando slug: super-smash-bros-ultimate para 'Super Smash Bros. Ultimate' (reviews de críticos)
+Processando jogo: super-smash-bros-ultimate (Ano: 2019, Tipo: critic)
+AVISO: Ano de lançamento diverge. CSV: 2019, Metacritic: 2018
+Buscando plataformas em: https://www.metacritic.com/game/super-smash-bros-ultimate/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'super-smash-bros-ultimate' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/super-smash-bros-ultimate/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 110
+Todas as 110 reviews carregadas (110)
+Extraídas 99 reviews desta página
+Coletadas 99 reviews para nintendo-switch
+Total de reviews para 'super-smash-bros-ultimate': 99
+
+[32] Processando: 'The Outer Worlds' (Ano: 2019)
+Tentando slug: the-outer-worlds para 'The Outer Worlds' (reviews de usuários)
+Processando jogo: the-outer-worlds (Ano: 2019, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/the-outer-worlds/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando reviews para 'the-outer-worlds' nas plataformas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 842
+Todas as 842 reviews carregadas (842)
+Extraídas 553 reviews desta página
+Coletadas 553 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 506
+Todas as 506 reviews carregadas (506)
+Extraídas 340 reviews desta página
+Coletadas 340 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 318
+Todas as 318 reviews carregadas (318)
+Extraídas 222 reviews desta página
+Coletadas 222 reviews para xbox-one
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 87
+Todas as 87 reviews carregadas (87)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'the-outer-worlds': 1115
+Tentando slug: the-outer-worlds para 'The Outer Worlds' (reviews de críticos)
+Processando jogo: the-outer-worlds (Ano: 2019, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/the-outer-worlds/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando reviews para 'the-outer-worlds' nas plataformas: ['pc', 'playstation-4', 'xbox-one', 'nintendo-switch']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 34
+Todas as 34 reviews carregadas (34)
+Extraídas 30 reviews desta página
+Coletadas 30 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 82
+Todas as 82 reviews carregadas (82)
+Extraídas 77 reviews desta página
+Coletadas 77 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 27
+Todas as 27 reviews carregadas (27)
+Extraídas 27 reviews desta página
+Coletadas 27 reviews para xbox-one
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-outer-worlds/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 52
+Todas as 52 reviews carregadas (52)
+Extraídas 49 reviews desta página
+Coletadas 49 reviews para nintendo-switch
+Total de reviews para 'the-outer-worlds': 183
+
+[33] Processando: 'The Last of Us Part II' (Ano: 2020)
+Tentando slug: the-last-of-us-part-ii para 'The Last of Us Part II' (reviews de usuários)
+Processando jogo: the-last-of-us-part-ii (Ano: 2020, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/the-last-of-us-part-ii/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'the-last-of-us-part-ii' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/the-last-of-us-part-ii/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 10000
+Todas as 10000 reviews carregadas (10000)
+Extraídas 3141 reviews desta página
+Coletadas 3141 reviews para playstation-4
+Total de reviews para 'the-last-of-us-part-ii': 3141
+Tentando slug: the-last-of-us-part-ii para 'The Last of Us Part II' (reviews de críticos)
+Processando jogo: the-last-of-us-part-ii (Ano: 2020, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/the-last-of-us-part-ii/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'the-last-of-us-part-ii' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/the-last-of-us-part-ii/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 132
+Todas as 132 reviews carregadas (132)
+Extraídas 121 reviews desta página
+Coletadas 121 reviews para playstation-4
+Total de reviews para 'the-last-of-us-part-ii': 121
+
+[34] Processando: 'Animal Crossing: New Horizons' (Ano: 2020)
+Tentando slug: animal-crossing-new-horizons para 'Animal Crossing: New Horizons' (reviews de usuários)
+Processando jogo: animal-crossing-new-horizons (Ano: 2020, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/animal-crossing-new-horizons/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'animal-crossing-new-horizons' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/animal-crossing-new-horizons/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 4041
+Todas as 4041 reviews carregadas (4041)
+Extraídas 3584 reviews desta página
+Coletadas 3584 reviews para nintendo-switch
+Total de reviews para 'animal-crossing-new-horizons': 3584
+Tentando slug: animal-crossing-new-horizons para 'Animal Crossing: New Horizons' (reviews de críticos)
+Processando jogo: animal-crossing-new-horizons (Ano: 2020, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/animal-crossing-new-horizons/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'animal-crossing-new-horizons' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/animal-crossing-new-horizons/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 122
+Todas as 122 reviews carregadas (122)
+Extraídas 111 reviews desta página
+Coletadas 111 reviews para nintendo-switch
+Total de reviews para 'animal-crossing-new-horizons': 111
+
+[35] Processando: 'Doom Eternal' (Ano: 2020)
+Tentando slug: doom-eternal para 'Doom Eternal' (reviews de usuários)
+Processando jogo: doom-eternal (Ano: 2020, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/doom-eternal/user-reviews/
+Plataformas encontradas: ['xbox-one', 'playstation-4', 'pc', 'nintendo-switch', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'doom-eternal' nas plataformas: ['xbox-one', 'playstation-4', 'pc', 'nintendo-switch', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 687
+Todas as 687 reviews carregadas (687)
+Extraídas 248 reviews desta página
+Coletadas 248 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1489
+Todas as 1489 reviews carregadas (1489)
+Extraídas 503 reviews desta página
+Coletadas 503 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 2706
+Todas as 2706 reviews carregadas (2706)
+Extraídas 805 reviews desta página
+Coletadas 805 reviews para pc
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 103
+Todas as 103 reviews carregadas (103)
+Extraídas 7 reviews desta página
+Coletadas 7 reviews para nintendo-switch
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 43
+Todas as 43 reviews carregadas (43)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 24
+Todas as 24 reviews carregadas (24)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Total de reviews para 'doom-eternal': 1563
+Tentando slug: doom-eternal para 'Doom Eternal' (reviews de críticos)
+Processando jogo: doom-eternal (Ano: 2020, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/doom-eternal/user-reviews/
+Plataformas encontradas: ['xbox-one', 'playstation-4', 'pc', 'nintendo-switch', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'doom-eternal' nas plataformas: ['xbox-one', 'playstation-4', 'pc', 'nintendo-switch', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 33
+Todas as 33 reviews carregadas (33)
+Extraídas 33 reviews desta página
+Coletadas 33 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 51
+Todas as 51 reviews carregadas (51)
+Extraídas 48 reviews desta página
+Coletadas 48 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 68
+Todas as 68 reviews carregadas (68)
+Extraídas 61 reviews desta página
+Coletadas 61 reviews para pc
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 48
+Todas as 48 reviews carregadas (48)
+Extraídas 47 reviews desta página
+Coletadas 47 reviews para nintendo-switch
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 3
+Todas as 3 reviews carregadas (3)
+Extraídas 3 reviews desta página
+Coletadas 3 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/doom-eternal/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Total de reviews para 'doom-eternal': 192
+
+[36] Processando: 'Final Fantasy VII Remake' (Ano: 2020)
+Tentando slug: final-fantasy-vii-remake para 'Final Fantasy VII Remake' (reviews de usuários)
+Processando jogo: final-fantasy-vii-remake (Ano: 2020, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/final-fantasy-vii-remake/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'final-fantasy-vii-remake' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/final-fantasy-vii-remake/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 3390
+Todas as 3390 reviews carregadas (3390)
+Extraídas 2677 reviews desta página
+Coletadas 2677 reviews para playstation-4
+Total de reviews para 'final-fantasy-vii-remake': 2677
+Tentando slug: final-fantasy-vii-remake para 'Final Fantasy VII Remake' (reviews de críticos)
+Processando jogo: final-fantasy-vii-remake (Ano: 2020, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/final-fantasy-vii-remake/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'final-fantasy-vii-remake' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/final-fantasy-vii-remake/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 135
+Todas as 135 reviews carregadas (135)
+Extraídas 126 reviews desta página
+Coletadas 126 reviews para playstation-4
+Total de reviews para 'final-fantasy-vii-remake': 126
+
+[37] Processando: 'Ghost of Tsushima' (Ano: 2020)
+Tentando slug: ghost-of-tsushima para 'Ghost of Tsushima' (reviews de usuários)
+Processando jogo: ghost-of-tsushima (Ano: 2020, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/ghost-of-tsushima/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'ghost-of-tsushima' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/ghost-of-tsushima/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 9927
+Todas as 9927 reviews carregadas (9927)
+Extraídas 8459 reviews desta página
+Coletadas 8459 reviews para playstation-4
+Total de reviews para 'ghost-of-tsushima': 8459
+Tentando slug: ghost-of-tsushima para 'Ghost of Tsushima' (reviews de críticos)
+Processando jogo: ghost-of-tsushima (Ano: 2020, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/ghost-of-tsushima/user-reviews/
+Plataformas encontradas: ['playstation-4']
+Coletando reviews para 'ghost-of-tsushima' nas plataformas: ['playstation-4']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/ghost-of-tsushima/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 132
+Todas as 132 reviews carregadas (132)
+Extraídas 122 reviews desta página
+Coletadas 122 reviews para playstation-4
+Total de reviews para 'ghost-of-tsushima': 122
+
+[38] Processando: 'Hades' (Ano: 2020)
+Tentando slug: hades para 'Hades' (reviews de usuários)
+Processando jogo: hades (Ano: 2020, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/hades/user-reviews/
+Plataformas encontradas: ['pc', 'nintendo-switch', 'xbox-series-x', 'xbox-one', 'playstation-5', 'playstation-4', 'ios-iphoneipad']
+Coletando reviews para 'hades' nas plataformas: ['pc', 'nintendo-switch', 'xbox-series-x', 'xbox-one', 'playstation-5', 'playstation-4', 'ios-iphoneipad']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/hades/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 513
+Todas as 513 reviews carregadas (513)
+Extraídas 121 reviews desta página
+Coletadas 121 reviews para pc
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/hades/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 293
+Todas as 293 reviews carregadas (293)
+Extraídas 100 reviews desta página
+Coletadas 100 reviews para nintendo-switch
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/hades/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 93
+Todas as 93 reviews carregadas (93)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/hades/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 22
+Todas as 22 reviews carregadas (22)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-one
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/hades/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 140
+Todas as 140 reviews carregadas (140)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-5
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/hades/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 22
+Todas as 22 reviews carregadas (22)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-4
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/hades/user-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para ios-iphoneipad
+Total de reviews para 'hades': 221
+Tentando slug: hades para 'Hades' (reviews de críticos)
+Processando jogo: hades (Ano: 2020, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/hades/user-reviews/
+Plataformas encontradas: ['pc', 'nintendo-switch', 'xbox-series-x', 'xbox-one', 'playstation-5', 'playstation-4', 'ios-iphoneipad']
+Coletando reviews para 'hades' nas plataformas: ['pc', 'nintendo-switch', 'xbox-series-x', 'xbox-one', 'playstation-5', 'playstation-4', 'ios-iphoneipad']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/hades/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 61
+Todas as 61 reviews carregadas (61)
+Extraídas 58 reviews desta página
+Coletadas 58 reviews para pc
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/hades/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 51
+Todas as 51 reviews carregadas (51)
+Extraídas 48 reviews desta página
+Coletadas 48 reviews para nintendo-switch
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/hades/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 19
+Todas as 19 reviews carregadas (19)
+Extraídas 18 reviews desta página
+Coletadas 18 reviews para xbox-series-x
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/hades/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 2
+Todas as 2 reviews carregadas (2)
+Extraídas 2 reviews desta página
+Coletadas 2 reviews para xbox-one
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/hades/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 31
+Todas as 31 reviews carregadas (31)
+Extraídas 31 reviews desta página
+Coletadas 31 reviews para playstation-5
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/hades/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para playstation-4
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/hades/critic-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Total de reviews esperadas: 3
+Todas as 3 reviews carregadas (3)
+Extraídas 3 reviews desta página
+Coletadas 3 reviews para ios-iphoneipad
+Total de reviews para 'hades': 161
+
+[39] Processando: 'It Takes Two' (Ano: 2021)
+Tentando slug: it-takes-two para 'It Takes Two' (reviews de usuários)
+Processando jogo: it-takes-two (Ano: 2021, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/it-takes-two/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc', 'xbox-one', 'playstation-5', 'xbox-series-x', 'nintendo-switch']
+Coletando reviews para 'it-takes-two' nas plataformas: ['playstation-4', 'pc', 'xbox-one', 'playstation-5', 'xbox-series-x', 'nintendo-switch']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 200
+Todas as 200 reviews carregadas (200)
+Extraídas 123 reviews desta página
+Coletadas 123 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 219
+Todas as 219 reviews carregadas (219)
+Extraídas 107 reviews desta página
+Coletadas 107 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 22
+Todas as 22 reviews carregadas (22)
+Extraídas 12 reviews desta página
+Coletadas 12 reviews para xbox-one
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 411
+Todas as 411 reviews carregadas (411)
+Extraídas 189 reviews desta página
+Coletadas 189 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 150
+Todas as 150 reviews carregadas (150)
+Extraídas 68 reviews desta página
+Coletadas 68 reviews para xbox-series-x
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 16
+Todas as 16 reviews carregadas (16)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'it-takes-two': 499
+Tentando slug: it-takes-two para 'It Takes Two' (reviews de críticos)
+Processando jogo: it-takes-two (Ano: 2021, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/it-takes-two/user-reviews/
+Plataformas encontradas: ['playstation-4', 'pc', 'xbox-one', 'playstation-5', 'xbox-series-x', 'nintendo-switch']
+Coletando reviews para 'it-takes-two' nas plataformas: ['playstation-4', 'pc', 'xbox-one', 'playstation-5', 'xbox-series-x', 'nintendo-switch']
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 17
+Todas as 17 reviews carregadas (17)
+Extraídas 17 reviews desta página
+Coletadas 17 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 21
+Todas as 21 reviews carregadas (21)
+Extraídas 20 reviews desta página
+Coletadas 20 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 2
+Todas as 2 reviews carregadas (2)
+Extraídas 2 reviews desta página
+Coletadas 2 reviews para xbox-one
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 51
+Todas as 51 reviews carregadas (51)
+Extraídas 50 reviews desta página
+Coletadas 50 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 35
+Todas as 35 reviews carregadas (35)
+Extraídas 32 reviews desta página
+Coletadas 32 reviews para xbox-series-x
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/it-takes-two/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 19
+Todas as 19 reviews carregadas (19)
+Extraídas 18 reviews desta página
+Coletadas 18 reviews para nintendo-switch
+Total de reviews para 'it-takes-two': 139
+
+[40] Processando: 'Deathloop' (Ano: 2021)
+Tentando slug: deathloop para 'Deathloop' (reviews de usuários)
+Processando jogo: deathloop (Ano: 2021, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/deathloop/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'deathloop' nas plataformas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/deathloop/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 241
+Todas as 241 reviews carregadas (241)
+Extraídas 121 reviews desta página
+Coletadas 121 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/deathloop/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 615
+Todas as 615 reviews carregadas (615)
+Extraídas 410 reviews desta página
+Coletadas 410 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/deathloop/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 105
+Todas as 105 reviews carregadas (105)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Total de reviews para 'deathloop': 531
+Tentando slug: deathloop para 'Deathloop' (reviews de críticos)
+Processando jogo: deathloop (Ano: 2021, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/deathloop/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'deathloop' nas plataformas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/deathloop/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 27
+Todas as 27 reviews carregadas (27)
+Extraídas 25 reviews desta página
+Coletadas 25 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/deathloop/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 116
+Todas as 116 reviews carregadas (116)
+Extraídas 109 reviews desta página
+Coletadas 109 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/deathloop/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 14
+Todas as 14 reviews carregadas (14)
+Extraídas 13 reviews desta página
+Coletadas 13 reviews para xbox-series-x
+Total de reviews para 'deathloop': 147
+
+[41] Processando: 'Metroid Dread' (Ano: 2021)
+Tentando slug: metroid-dread para 'Metroid Dread' (reviews de usuários)
+Processando jogo: metroid-dread (Ano: 2021, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/metroid-dread/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'metroid-dread' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/metroid-dread/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 1479
+Todas as 1479 reviews carregadas (1479)
+Extraídas 1102 reviews desta página
+Coletadas 1102 reviews para nintendo-switch
+Total de reviews para 'metroid-dread': 1102
+Tentando slug: metroid-dread para 'Metroid Dread' (reviews de críticos)
+Processando jogo: metroid-dread (Ano: 2021, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/metroid-dread/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'metroid-dread' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/metroid-dread/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 133
+Todas as 133 reviews carregadas (133)
+Extraídas 124 reviews desta página
+Coletadas 124 reviews para nintendo-switch
+Total de reviews para 'metroid-dread': 124
+
+[42] Processando: 'Psychonauts 2' (Ano: 2021)
+Tentando slug: psychonauts-2 para 'Psychonauts 2' (reviews de usuários)
+Processando jogo: psychonauts-2 (Ano: 2021, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/psychonauts-2/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-4', 'xbox-one', 'xbox-series-x']
+Coletando reviews para 'psychonauts-2' nas plataformas: ['pc', 'playstation-4', 'xbox-one', 'xbox-series-x']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 313
+Todas as 313 reviews carregadas (313)
+Extraídas 233 reviews desta página
+Coletadas 233 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 96
+Todas as 96 reviews carregadas (96)
+Extraídas 72 reviews desta página
+Coletadas 72 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 111
+Todas as 111 reviews carregadas (111)
+Extraídas 98 reviews desta página
+Coletadas 98 reviews para xbox-one
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 865
+Todas as 865 reviews carregadas (865)
+Extraídas 766 reviews desta página
+Coletadas 766 reviews para xbox-series-x
+Total de reviews para 'psychonauts-2': 1169
+Tentando slug: psychonauts-2 para 'Psychonauts 2' (reviews de críticos)
+Processando jogo: psychonauts-2 (Ano: 2021, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/psychonauts-2/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-4', 'xbox-one', 'xbox-series-x']
+Coletando reviews para 'psychonauts-2' nas plataformas: ['pc', 'playstation-4', 'xbox-one', 'xbox-series-x']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 37
+Todas as 37 reviews carregadas (37)
+Extraídas 36 reviews desta página
+Coletadas 36 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 7
+Todas as 7 reviews carregadas (7)
+Extraídas 7 reviews desta página
+Coletadas 7 reviews para playstation-4
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 11
+Todas as 11 reviews carregadas (11)
+Extraídas 11 reviews desta página
+Coletadas 11 reviews para xbox-one
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/psychonauts-2/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 72
+Todas as 72 reviews carregadas (72)
+Extraídas 67 reviews desta página
+Coletadas 67 reviews para xbox-series-x
+Total de reviews para 'psychonauts-2': 121
+
+[43] Processando: 'Ratchet & Clank: Rift Apart' (Ano: 2021)
+Tentando slug: ratchet-and-clank-rift-apart para 'Ratchet & Clank: Rift Apart' (reviews de usuários)
+Processando jogo: ratchet-and-clank-rift-apart (Ano: 2021, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/ratchet-and-clank-rift-apart/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc']
+Coletando reviews para 'ratchet-and-clank-rift-apart' nas plataformas: ['playstation-5', 'pc']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/ratchet-and-clank-rift-apart/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 1179
+Todas as 1179 reviews carregadas (1179)
+Extraídas 713 reviews desta página
+Coletadas 713 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/ratchet-and-clank-rift-apart/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 134
+Todas as 134 reviews carregadas (134)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para pc
+Total de reviews para 'ratchet-and-clank-rift-apart': 713
+Tentando slug: ratchet-and-clank-rift-apart para 'Ratchet & Clank: Rift Apart' (reviews de críticos)
+Processando jogo: ratchet-and-clank-rift-apart (Ano: 2021, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/ratchet-and-clank-rift-apart/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc']
+Coletando reviews para 'ratchet-and-clank-rift-apart' nas plataformas: ['playstation-5', 'pc']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/ratchet-and-clank-rift-apart/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 136
+Todas as 136 reviews carregadas (136)
+Extraídas 127 reviews desta página
+Coletadas 127 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/ratchet-and-clank-rift-apart/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 36
+Todas as 36 reviews carregadas (36)
+Extraídas 36 reviews desta página
+Coletadas 36 reviews para pc
+Total de reviews para 'ratchet-and-clank-rift-apart': 163
+
+[44] Processando: 'Resident Evil Village' (Ano: 2021)
+Tentando slug: resident-evil-village para 'Resident Evil Village' (reviews de usuários)
+Processando jogo: resident-evil-village (Ano: 2021, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/resident-evil-village/user-reviews/
+Plataformas encontradas: ['playstation-5', 'xbox-series-x', 'pc', 'xbox-one', 'playstation-4', 'ios-iphoneipad', 'nintendo-switch']
+Coletando reviews para 'resident-evil-village' nas plataformas: ['playstation-5', 'xbox-series-x', 'pc', 'xbox-one', 'playstation-4', 'ios-iphoneipad', 'nintendo-switch']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 1019
+Todas as 1019 reviews carregadas (1019)
+Extraídas 692 reviews desta página
+Coletadas 692 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 110
+Todas as 110 reviews carregadas (110)
+Extraídas 80 reviews desta página
+Coletadas 80 reviews para xbox-series-x
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 389
+Todas as 389 reviews carregadas (389)
+Extraídas 260 reviews desta página
+Coletadas 260 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 41
+Todas as 41 reviews carregadas (41)
+Extraídas 33 reviews desta página
+Coletadas 33 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 192
+Todas as 192 reviews carregadas (192)
+Extraídas 159 reviews desta página
+Coletadas 159 reviews para playstation-4
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/user-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para ios-iphoneipad
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 2
+Todas as 2 reviews carregadas (2)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'resident-evil-village': 1224
+Tentando slug: resident-evil-village para 'Resident Evil Village' (reviews de críticos)
+Processando jogo: resident-evil-village (Ano: 2021, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/resident-evil-village/user-reviews/
+Plataformas encontradas: ['playstation-5', 'xbox-series-x', 'pc', 'xbox-one', 'playstation-4', 'ios-iphoneipad', 'nintendo-switch']
+Coletando reviews para 'resident-evil-village' nas plataformas: ['playstation-5', 'xbox-series-x', 'pc', 'xbox-one', 'playstation-4', 'ios-iphoneipad', 'nintendo-switch']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 119
+Todas as 119 reviews carregadas (119)
+Extraídas 108 reviews desta página
+Coletadas 108 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 14
+Todas as 14 reviews carregadas (14)
+Extraídas 13 reviews desta página
+Coletadas 13 reviews para xbox-series-x
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 25
+Todas as 25 reviews carregadas (25)
+Extraídas 24 reviews desta página
+Coletadas 24 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 8
+Todas as 8 reviews carregadas (8)
+Extraídas 7 reviews desta página
+Coletadas 7 reviews para playstation-4
+Coletando para plataforma: ios-iphoneipad
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/critic-reviews/?platform=ios-iphoneipad&sort-by=date&num_items=100
+Total de reviews esperadas: 6
+Todas as 6 reviews carregadas (6)
+Extraídas 5 reviews desta página
+Coletadas 5 reviews para ios-iphoneipad
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/resident-evil-village/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para nintendo-switch
+Total de reviews para 'resident-evil-village': 159
+
+[45] Processando: 'Elden Ring' (Ano: 2022)
+Tentando slug: elden-ring para 'Elden Ring' (reviews de usuários)
+Processando jogo: elden-ring (Ano: 2022, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/elden-ring/user-reviews/
+Plataformas encontradas: ['xbox-one', 'pc', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando reviews para 'elden-ring' nas plataformas: ['xbox-one', 'pc', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 114
+Todas as 114 reviews carregadas (114)
+Extraídas 94 reviews desta página
+Coletadas 94 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 2486
+Todas as 2486 reviews carregadas (2486)
+Extraídas 1840 reviews desta página
+Coletadas 1840 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 386
+Todas as 386 reviews carregadas (386)
+Extraídas 310 reviews desta página
+Coletadas 310 reviews para playstation-4
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 1144
+Todas as 1144 reviews carregadas (1144)
+Extraídas 912 reviews desta página
+Coletadas 912 reviews para xbox-series-x
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 6116
+Todas as 6116 reviews carregadas (6116)
+Extraídas 4650 reviews desta página
+Coletadas 4650 reviews para playstation-5
+Total de reviews para 'elden-ring': 7806
+Tentando slug: elden-ring para 'Elden Ring' (reviews de críticos)
+Processando jogo: elden-ring (Ano: 2022, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/elden-ring/user-reviews/
+Plataformas encontradas: ['xbox-one', 'pc', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando reviews para 'elden-ring' nas plataformas: ['xbox-one', 'pc', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-one
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 63
+Todas as 63 reviews carregadas (63)
+Extraídas 60 reviews desta página
+Coletadas 60 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para playstation-4
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 19
+Todas as 19 reviews carregadas (19)
+Extraídas 19 reviews desta página
+Coletadas 19 reviews para xbox-series-x
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/elden-ring/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 93
+Todas as 93 reviews carregadas (93)
+Extraídas 86 reviews desta página
+Coletadas 86 reviews para playstation-5
+Total de reviews para 'elden-ring': 166
+
+[46] Processando: 'A Plague Tale: Requiem' (Ano: 2022)
+Tentando slug: a-plague-tale-requiem para 'A Plague Tale: Requiem' (reviews de usuários)
+Processando jogo: a-plague-tale-requiem (Ano: 2022, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/a-plague-tale-requiem/user-reviews/
+Plataformas encontradas: ['xbox-series-x', 'pc', 'playstation-5', 'nintendo-switch']
+Coletando reviews para 'a-plague-tale-requiem' nas plataformas: ['xbox-series-x', 'pc', 'playstation-5', 'nintendo-switch']
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 271
+Todas as 271 reviews carregadas (271)
+Extraídas 152 reviews desta página
+Coletadas 152 reviews para xbox-series-x
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 245
+Todas as 245 reviews carregadas (245)
+Extraídas 123 reviews desta página
+Coletadas 123 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 355
+Todas as 355 reviews carregadas (355)
+Extraídas 146 reviews desta página
+Coletadas 146 reviews para playstation-5
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para nintendo-switch
+Total de reviews para 'a-plague-tale-requiem': 422
+Tentando slug: a-plague-tale-requiem para 'A Plague Tale: Requiem' (reviews de críticos)
+Processando jogo: a-plague-tale-requiem (Ano: 2022, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/a-plague-tale-requiem/user-reviews/
+Plataformas encontradas: ['xbox-series-x', 'pc', 'playstation-5', 'nintendo-switch']
+Coletando reviews para 'a-plague-tale-requiem' nas plataformas: ['xbox-series-x', 'pc', 'playstation-5', 'nintendo-switch']
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 36
+Todas as 36 reviews carregadas (36)
+Extraídas 35 reviews desta página
+Coletadas 35 reviews para xbox-series-x
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 34
+Todas as 34 reviews carregadas (34)
+Extraídas 32 reviews desta página
+Coletadas 32 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 70
+Todas as 70 reviews carregadas (70)
+Extraídas 69 reviews desta página
+Coletadas 69 reviews para playstation-5
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/a-plague-tale-requiem/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 6
+Todas as 6 reviews carregadas (6)
+Extraídas 5 reviews desta página
+Coletadas 5 reviews para nintendo-switch
+Total de reviews para 'a-plague-tale-requiem': 141
+
+[47] Processando: 'God of War Ragnarok' (Ano: 2022)
+Tentando slug: god-of-war-ragnarok para 'God of War Ragnarok' (reviews de usuários)
+Processando jogo: god-of-war-ragnarok (Ano: 2022, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/god-of-war-ragnarok/user-reviews/
+Plataformas encontradas: ['playstation-5', 'playstation-4', 'pc']
+Coletando reviews para 'god-of-war-ragnarok' nas plataformas: ['playstation-5', 'playstation-4', 'pc']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/god-of-war-ragnarok/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 4767
+Todas as 4767 reviews carregadas (4767)
+Extraídas 2913 reviews desta página
+Coletadas 2913 reviews para playstation-5
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/god-of-war-ragnarok/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 290
+Todas as 290 reviews carregadas (290)
+Extraídas 174 reviews desta página
+Coletadas 174 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/god-of-war-ragnarok/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 76
+Todas as 76 reviews carregadas (76)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para pc
+Total de reviews para 'god-of-war-ragnarok': 3087
+Tentando slug: god-of-war-ragnarok para 'God of War Ragnarok' (reviews de críticos)
+Processando jogo: god-of-war-ragnarok (Ano: 2022, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/god-of-war-ragnarok/user-reviews/
+Plataformas encontradas: ['playstation-5', 'playstation-4', 'pc']
+Coletando reviews para 'god-of-war-ragnarok' nas plataformas: ['playstation-5', 'playstation-4', 'pc']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/god-of-war-ragnarok/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 150
+Todas as 150 reviews carregadas (150)
+Extraídas 141 reviews desta página
+Coletadas 141 reviews para playstation-5
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/god-of-war-ragnarok/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 3
+Todas as 3 reviews carregadas (3)
+Extraídas 3 reviews desta página
+Coletadas 3 reviews para playstation-4
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/god-of-war-ragnarok/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 41
+Todas as 41 reviews carregadas (41)
+Extraídas 37 reviews desta página
+Coletadas 37 reviews para pc
+Total de reviews para 'god-of-war-ragnarok': 181
+
+[48] Processando: 'Horizon Forbidden West' (Ano: 2022)
+Tentando slug: horizon-forbidden-west para 'Horizon Forbidden West' (reviews de usuários)
+Processando jogo: horizon-forbidden-west (Ano: 2022, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/horizon-forbidden-west/user-reviews/
+Plataformas encontradas: ['playstation-5', 'playstation-4']
+Coletando reviews para 'horizon-forbidden-west' nas plataformas: ['playstation-5', 'playstation-4']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/horizon-forbidden-west/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 5417
+Todas as 5417 reviews carregadas (5417)
+Extraídas 4801 reviews desta página
+Coletadas 4801 reviews para playstation-5
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/horizon-forbidden-west/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 404
+Todas as 404 reviews carregadas (404)
+Extraídas 355 reviews desta página
+Coletadas 355 reviews para playstation-4
+Total de reviews para 'horizon-forbidden-west': 5156
+Tentando slug: horizon-forbidden-west para 'Horizon Forbidden West' (reviews de críticos)
+Processando jogo: horizon-forbidden-west (Ano: 2022, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/horizon-forbidden-west/user-reviews/
+Plataformas encontradas: ['playstation-5', 'playstation-4']
+Coletando reviews para 'horizon-forbidden-west' nas plataformas: ['playstation-5', 'playstation-4']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/horizon-forbidden-west/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 139
+Todas as 139 reviews carregadas (139)
+Extraídas 127 reviews desta página
+Coletadas 127 reviews para playstation-5
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/horizon-forbidden-west/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 7
+Todas as 7 reviews carregadas (7)
+Extraídas 7 reviews desta página
+Coletadas 7 reviews para playstation-4
+Total de reviews para 'horizon-forbidden-west': 134
+
+[49] Processando: 'Stray' (Ano: 2022)
+Tentando slug: stray para 'Stray' (reviews de usuários)
+Processando jogo: stray (Ano: 2022, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/stray/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc', 'playstation-4', 'xbox-series-x', 'xbox-one', 'nintendo-switch']
+Coletando reviews para 'stray' nas plataformas: ['playstation-5', 'pc', 'playstation-4', 'xbox-series-x', 'xbox-one', 'nintendo-switch']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/stray/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 891
+Todas as 891 reviews carregadas (891)
+Extraídas 680 reviews desta página
+Coletadas 680 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/stray/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 268
+Todas as 268 reviews carregadas (268)
+Extraídas 198 reviews desta página
+Coletadas 198 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/stray/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 86
+Todas as 86 reviews carregadas (86)
+Extraídas 58 reviews desta página
+Coletadas 58 reviews para playstation-4
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/stray/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 13
+Todas as 13 reviews carregadas (13)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/stray/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 2
+Todas as 2 reviews carregadas (2)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-one
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/stray/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 2
+Todas as 2 reviews carregadas (2)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para nintendo-switch
+Total de reviews para 'stray': 936
+Tentando slug: stray para 'Stray' (reviews de críticos)
+Processando jogo: stray (Ano: 2022, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/stray/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc', 'playstation-4', 'xbox-series-x', 'xbox-one', 'nintendo-switch']
+Coletando reviews para 'stray' nas plataformas: ['playstation-5', 'pc', 'playstation-4', 'xbox-series-x', 'xbox-one', 'nintendo-switch']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/stray/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 106
+Todas as 106 reviews carregadas (106)
+Extraídas 99 reviews desta página
+Coletadas 99 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/stray/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 45
+Todas as 45 reviews carregadas (45)
+Extraídas 43 reviews desta página
+Coletadas 43 reviews para pc
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/stray/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 1
+Todas as 1 reviews carregadas (1)
+Extraídas 1 reviews desta página
+Coletadas 1 reviews para playstation-4
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/stray/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 9
+Todas as 9 reviews carregadas (9)
+Extraídas 8 reviews desta página
+Coletadas 8 reviews para xbox-series-x
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/stray/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Não foi possível determinar número de reviews
+Todas as 0 reviews carregadas (0)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-one
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/stray/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 15
+Todas as 15 reviews carregadas (15)
+Extraídas 15 reviews desta página
+Coletadas 15 reviews para nintendo-switch
+Total de reviews para 'stray': 166
+
+[50] Processando: 'Xenoblade Chronicles 3' (Ano: 2022)
+Tentando slug: xenoblade-chronicles-3 para 'Xenoblade Chronicles 3' (reviews de usuários)
+Processando jogo: xenoblade-chronicles-3 (Ano: 2022, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/xenoblade-chronicles-3/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'xenoblade-chronicles-3' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/xenoblade-chronicles-3/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 712
+Todas as 712 reviews carregadas (712)
+Extraídas 551 reviews desta página
+Coletadas 551 reviews para nintendo-switch
+Total de reviews para 'xenoblade-chronicles-3': 551
+Tentando slug: xenoblade-chronicles-3 para 'Xenoblade Chronicles 3' (reviews de críticos)
+Processando jogo: xenoblade-chronicles-3 (Ano: 2022, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/xenoblade-chronicles-3/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'xenoblade-chronicles-3' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/xenoblade-chronicles-3/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 127
+Todas as 127 reviews carregadas (127)
+Extraídas 122 reviews desta página
+Coletadas 122 reviews para nintendo-switch
+Total de reviews para 'xenoblade-chronicles-3': 122
+
+[51] Processando: 'Baldur's Gate 3' (Ano: 2023)
+Tentando slug: baldurs-gate-3 para 'Baldur's Gate 3' (reviews de usuários)
+Processando jogo: baldurs-gate-3 (Ano: 2023, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/baldurs-gate-3/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'baldurs-gate-3' nas plataformas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/baldurs-gate-3/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 6235
+Todas as 6235 reviews carregadas (6235)
+Extraídas 5455 reviews desta página
+Coletadas 5455 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/baldurs-gate-3/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 669
+Todas as 669 reviews carregadas (669)
+Extraídas 474 reviews desta página
+Coletadas 474 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/baldurs-gate-3/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 97
+Todas as 97 reviews carregadas (97)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para xbox-series-x
+Total de reviews para 'baldurs-gate-3': 5929
+Tentando slug: baldurs-gate-3 para 'Baldur's Gate 3' (reviews de críticos)
+Processando jogo: baldurs-gate-3 (Ano: 2023, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/baldurs-gate-3/user-reviews/
+Plataformas encontradas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando reviews para 'baldurs-gate-3' nas plataformas: ['pc', 'playstation-5', 'xbox-series-x']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/baldurs-gate-3/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 120
+Todas as 120 reviews carregadas (120)
+Extraídas 112 reviews desta página
+Coletadas 112 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/baldurs-gate-3/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 39
+Todas as 39 reviews carregadas (39)
+Extraídas 37 reviews desta página
+Coletadas 37 reviews para playstation-5
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/baldurs-gate-3/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 10
+Todas as 10 reviews carregadas (10)
+Extraídas 9 reviews desta página
+Coletadas 9 reviews para xbox-series-x
+Total de reviews para 'baldurs-gate-3': 158
+
+[52] Processando: 'Alan Wake II' (Ano: 2023)
+Tentando slug: alan-wake-ii para 'Alan Wake II' (reviews de usuários)
+Processando jogo: alan-wake-ii (Ano: 2023, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/alan-wake-ii/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc', 'xbox-series-x']
+Coletando reviews para 'alan-wake-ii' nas plataformas: ['playstation-5', 'pc', 'xbox-series-x']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/alan-wake-ii/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 839
+Todas as 839 reviews carregadas (839)
+Extraídas 487 reviews desta página
+Coletadas 487 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/alan-wake-ii/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 379
+Todas as 379 reviews carregadas (379)
+Extraídas 223 reviews desta página
+Coletadas 223 reviews para pc
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/alan-wake-ii/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 132
+Todas as 132 reviews carregadas (132)
+Extraídas 74 reviews desta página
+Coletadas 74 reviews para xbox-series-x
+Total de reviews para 'alan-wake-ii': 784
+Tentando slug: alan-wake-ii para 'Alan Wake II' (reviews de críticos)
+Processando jogo: alan-wake-ii (Ano: 2023, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/alan-wake-ii/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc', 'xbox-series-x']
+Coletando reviews para 'alan-wake-ii' nas plataformas: ['playstation-5', 'pc', 'xbox-series-x']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/alan-wake-ii/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 75
+Todas as 75 reviews carregadas (75)
+Extraídas 71 reviews desta página
+Coletadas 71 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/alan-wake-ii/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 54
+Todas as 54 reviews carregadas (54)
+Extraídas 53 reviews desta página
+Coletadas 53 reviews para pc
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/alan-wake-ii/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 17
+Todas as 17 reviews carregadas (17)
+Extraídas 16 reviews desta página
+Coletadas 16 reviews para xbox-series-x
+Total de reviews para 'alan-wake-ii': 140
+
+[53] Processando: 'The Legend of Zelda: Tears of the Kingdom' (Ano: 2023)
+Tentando slug: the-legend-of-zelda-tears-of-the-kingdom para 'The Legend of Zelda: Tears of the Kingdom' (reviews de usuários)
+Processando jogo: the-legend-of-zelda-tears-of-the-kingdom (Ano: 2023, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/the-legend-of-zelda-tears-of-the-kingdom/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'the-legend-of-zelda-tears-of-the-kingdom' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-legend-of-zelda-tears-of-the-kingdom/user-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 5282
+Todas as 5282 reviews carregadas (5282)
+Extraídas 4789 reviews desta página
+Coletadas 4789 reviews para nintendo-switch
+Total de reviews para 'the-legend-of-zelda-tears-of-the-kingdom': 4789
+Tentando slug: the-legend-of-zelda-tears-of-the-kingdom para 'The Legend of Zelda: Tears of the Kingdom' (reviews de críticos)
+Processando jogo: the-legend-of-zelda-tears-of-the-kingdom (Ano: 2023, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/the-legend-of-zelda-tears-of-the-kingdom/user-reviews/
+Plataformas encontradas: ['nintendo-switch']
+Coletando reviews para 'the-legend-of-zelda-tears-of-the-kingdom' nas plataformas: ['nintendo-switch']
+Coletando para plataforma: nintendo-switch
+Raspando reviews de: https://www.metacritic.com/game/the-legend-of-zelda-tears-of-the-kingdom/critic-reviews/?platform=nintendo-switch&sort-by=date&num_items=100
+Total de reviews esperadas: 156
+Todas as 156 reviews carregadas (156)
+Extraídas 150 reviews desta página
+Coletadas 150 reviews para nintendo-switch
+Total de reviews para 'the-legend-of-zelda-tears-of-the-kingdom': 150
+
+[54] Processando: 'Marvel's Spider-Man 2' (Ano: 2023)
+Tentando slug: marvels-spider-man-2 para 'Marvel's Spider-Man 2' (reviews de usuários)
+Processando jogo: marvels-spider-man-2 (Ano: 2023, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/marvels-spider-man-2/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc']
+Coletando reviews para 'marvels-spider-man-2' nas plataformas: ['playstation-5', 'pc']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/marvels-spider-man-2/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 4049
+Todas as 4049 reviews carregadas (4049)
+Extraídas 3513 reviews desta página
+Coletadas 3513 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/marvels-spider-man-2/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 31
+Todas as 31 reviews carregadas (31)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para pc
+Total de reviews para 'marvels-spider-man-2': 3513
+Tentando slug: marvels-spider-man-2 para 'Marvel's Spider-Man 2' (reviews de críticos)
+Processando jogo: marvels-spider-man-2 (Ano: 2023, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/marvels-spider-man-2/user-reviews/
+Plataformas encontradas: ['playstation-5', 'pc']
+Coletando reviews para 'marvels-spider-man-2' nas plataformas: ['playstation-5', 'pc']
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/marvels-spider-man-2/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 151
+Todas as 151 reviews carregadas (151)
+Extraídas 144 reviews desta página
+Coletadas 144 reviews para playstation-5
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/marvels-spider-man-2/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 36
+Todas as 36 reviews carregadas (36)
+Extraídas 34 reviews desta página
+Coletadas 34 reviews para pc
+Total de reviews para 'marvels-spider-man-2': 178
+
+[55] Processando: 'Cyberpunk 2077' (Ano: 2023)
+Tentando slug: cyberpunk-2077 para 'Cyberpunk 2077' (reviews de usuários)
+Processando jogo: cyberpunk-2077 (Ano: 2023, Tipo: user)
+AVISO: Ano de lançamento diverge. CSV: 2023, Metacritic: 2020
+Buscando plataformas em: https://www.metacritic.com/game/cyberpunk-2077/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando reviews para 'cyberpunk-2077' nas plataformas: ['pc', 'xbox-one', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 10000
+Todas as 10000 reviews carregadas (10000)
+Extraídas 9595 reviews desta página
+Coletadas 9595 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/user-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 1787
+Todas as 1787 reviews carregadas (1787)
+Extraídas 1776 reviews desta página
+Coletadas 1776 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/user-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 5430
+Todas as 5430 reviews carregadas (5430)
+Extraídas 5414 reviews desta página
+Coletadas 5414 reviews para playstation-4
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 208
+Todas as 208 reviews carregadas (208)
+Extraídas 151 reviews desta página
+Coletadas 151 reviews para xbox-series-x
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 564
+Todas as 564 reviews carregadas (564)
+Extraídas 419 reviews desta página
+Coletadas 419 reviews para playstation-5
+Total de reviews para 'cyberpunk-2077': 17355
+Tentando slug: cyberpunk-2077 para 'Cyberpunk 2077' (reviews de críticos)
+Processando jogo: cyberpunk-2077 (Ano: 2023, Tipo: critic)
+AVISO: Ano de lançamento diverge. CSV: 2023, Metacritic: 2020
+Buscando plataformas em: https://www.metacritic.com/game/cyberpunk-2077/user-reviews/
+Plataformas encontradas: ['pc', 'xbox-one', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando reviews para 'cyberpunk-2077' nas plataformas: ['pc', 'xbox-one', 'playstation-4', 'xbox-series-x', 'playstation-5']
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 106
+Todas as 106 reviews carregadas (106)
+Extraídas 92 reviews desta página
+Coletadas 92 reviews para pc
+Coletando para plataforma: xbox-one
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/critic-reviews/?platform=xbox-one&sort-by=date&num_items=100
+Total de reviews esperadas: 16
+Todas as 16 reviews carregadas (16)
+Extraídas 16 reviews desta página
+Coletadas 16 reviews para xbox-one
+Coletando para plataforma: playstation-4
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/critic-reviews/?platform=playstation-4&sort-by=date&num_items=100
+Total de reviews esperadas: 39
+Todas as 39 reviews carregadas (39)
+Extraídas 38 reviews desta página
+Coletadas 38 reviews para playstation-4
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 5
+Todas as 5 reviews carregadas (5)
+Extraídas 5 reviews desta página
+Coletadas 5 reviews para xbox-series-x
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/cyberpunk-2077/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 7
+Todas as 7 reviews carregadas (7)
+Extraídas 7 reviews desta página
+Coletadas 7 reviews para playstation-5
+Total de reviews para 'cyberpunk-2077': 158
+
+[56] Processando: 'Hi-Fi Rush' (Ano: 2023)
+Tentando slug: hi-fi-rush para 'Hi-Fi Rush' (reviews de usuários)
+Processando jogo: hi-fi-rush (Ano: 2023, Tipo: user)
+Buscando plataformas em: https://www.metacritic.com/game/hi-fi-rush/user-reviews/
+Plataformas encontradas: ['xbox-series-x', 'pc', 'playstation-5']
+Coletando reviews para 'hi-fi-rush' nas plataformas: ['xbox-series-x', 'pc', 'playstation-5']
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/hi-fi-rush/user-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 1652
+Todas as 1652 reviews carregadas (1652)
+Extraídas 1557 reviews desta página
+Coletadas 1557 reviews para xbox-series-x
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/hi-fi-rush/user-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 531
+Todas as 531 reviews carregadas (531)
+Extraídas 506 reviews desta página
+Coletadas 506 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/hi-fi-rush/user-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 15
+Todas as 15 reviews carregadas (15)
+Extraídas 0 reviews desta página
+Coletadas 0 reviews para playstation-5
+Total de reviews para 'hi-fi-rush': 2063
+Tentando slug: hi-fi-rush para 'Hi-Fi Rush' (reviews de críticos)
+Processando jogo: hi-fi-rush (Ano: 2023, Tipo: critic)
+Buscando plataformas em: https://www.metacritic.com/game/hi-fi-rush/user-reviews/
+Plataformas encontradas: ['xbox-series-x', 'pc', 'playstation-5']
+Coletando reviews para 'hi-fi-rush' nas plataformas: ['xbox-series-x', 'pc', 'playstation-5']
+Coletando para plataforma: xbox-series-x
+Raspando reviews de: https://www.metacritic.com/game/hi-fi-rush/critic-reviews/?platform=xbox-series-x&sort-by=date&num_items=100
+Total de reviews esperadas: 63
+Todas as 63 reviews carregadas (63)
+Extraídas 56 reviews desta página
+Coletadas 56 reviews para xbox-series-x
+Coletando para plataforma: pc
+Raspando reviews de: https://www.metacritic.com/game/hi-fi-rush/critic-reviews/?platform=pc&sort-by=date&num_items=100
+Total de reviews esperadas: 37
+Todas as 37 reviews carregadas (37)
+Extraídas 35 reviews desta página
+Coletadas 35 reviews para pc
+Coletando para plataforma: playstation-5
+Raspando reviews de: https://www.metacritic.com/game/hi-fi-rush/critic-reviews/?platform=playstation-5&sort-by=date&num_items=100
+Total de reviews esperadas: 23
+Todas as 23 reviews carregadas (23)
+Extraídas 23 reviews desta página
+Coletadas 23 reviews para playstation-5
+Total de reviews para 'hi-fi-rush': 114
+
+Processamento concluído. Dados salvos em ./data/the_game_awards_data.json
+Driver do Selenium fechado.

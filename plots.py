@@ -49,8 +49,8 @@ def plotHistogramByClass(class_):
                 movies[movie]["class"] = "Winner"
             movies[movie].pop("winner")
 
-            user_reviews = list(map(int, movies[movie]["user-review"]))
-            critic_review = [int(x) // 10.0 for x in movies[movie]["critic-review"]]
+            user_reviews = list(map(int, movies[movie]["user-reviews"]))
+            critic_review = [int(x) // 10.0 for x in movies[movie]["critic-reviews"]]
             movies[movie]["user-mean"] = round(statistics.mean(user_reviews), 2)
             movies[movie]["user-stdev"] = round(statistics.stdev(user_reviews), 2)
             movies[movie]["user-median"] = round(statistics.median(user_reviews), 2)
@@ -61,7 +61,7 @@ def plotHistogramByClass(class_):
             movies[movie]["user-percentile-75"] = round(
                 np.percentile(user_reviews, 75), 2
             )
-            movies[movie].pop("user-review")
+            movies[movie].pop("user-reviews")
 
             movies[movie]["critic-mean"] = round(statistics.mean(critic_review), 2)
             movies[movie]["critic-stdev"] = round(statistics.stdev(critic_review), 2)
@@ -73,7 +73,7 @@ def plotHistogramByClass(class_):
             movies[movie]["critic-percentile-75"] = round(
                 np.percentile(critic_review, 75), 2
             )
-            movies[movie].pop("critic-review")
+            movies[movie].pop("critic-reviews")
 
         (
             fig,

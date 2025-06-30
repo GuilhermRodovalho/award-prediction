@@ -24,8 +24,8 @@ def generateDataframes(json_input):
             movies[movie]["class"] = "Winner"
         movies[movie].pop("winner")
 
-        user_reviews = list(map(int, movies[movie]["user-review"]))
-        critic_review = [int(x) // 10.0 for x in movies[movie]["critic-review"]]
+        user_reviews = list(map(int, movies[movie]["user-reviews"]))
+        critic_review = [int(x) // 10.0 for x in movies[movie]["critic-reviews"]]
         movies[movie]["user-mean"] = round(statistics.mean(user_reviews), 2)
         movies[movie]["user-stdev"] = round(statistics.stdev(user_reviews), 2)
         movies[movie]["user-median"] = round(statistics.median(user_reviews), 2)
@@ -44,7 +44,7 @@ def generateDataframes(json_input):
         movies[movie]["critic-percentile-75"] = round(
             np.percentile(critic_review, 75), 2
         )
-        movies[movie].pop("critic-review")
+        movies[movie].pop("critic-reviews")
 
     df = pd.DataFrame.from_dict(movies, orient="index")
 
@@ -63,6 +63,9 @@ def generateTrainAndTest(opt):
     elif opt == "golden_globe_comedy":
         train_filename = "golden_globe_movies_comedy_data.json"
         test_filename = "golden_globe_movies_comedy_2023_data.json"
+    elif opt == "the_game_awards":
+        train_filename = "the_game_awards_movies_data.json"
+        test_filename = "the_game_awards_2023_data.json"
     else:
         print("Erro")
         exit(1)
@@ -159,7 +162,7 @@ def randomForest(opt):
 
 
 if __name__ == "__main__":
-    for name in ["oscars"]:
+    for name in ["the_game_awards"]:
         print("\nResultados do " + name)
         print("\nNaive Bayes")
         naiveBayes(name)

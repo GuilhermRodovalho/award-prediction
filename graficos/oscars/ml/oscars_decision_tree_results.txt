@@ -1,6 +1,0 @@
-test_size=0.2
-
-Accuracy: 0.7407407407407407
-Precision: 0.0
-Recall: 0.0
-F1 Score: 0.7407407407407407
