@@ -14,9 +14,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### Running the Prediction System
 - `python ml_final.py` - Run ML predictions for award winners using historical data
+- `python ml_test.py` - Alternative/test version of the ML pipeline for development
 - `python main_oscars.py` - Run the Metacritic scraper to collect movie/game data
 - `python ai.py` - Run comprehensive ML analysis with visualizations
 - `python plots.py` - Generate various data visualization plots
+- `python script.py` - Utility script for parsing HTML and extracting JSON data from web pages
 
 ## Project Architecture
 
@@ -31,6 +33,7 @@ The project uses a sophisticated data collection system centered around the `Met
 ### Data Storage Structure
 - **CSV Files** (`csv/`): Raw award nomination data organized by ceremony type
 - **JSON Files** (`data/`): Processed review data with extracted features
+- **Development Files**: `ml_test.py` (alternative ML pipeline), `script.py` (web data extraction utility)
 - **Data Flow**: CSV → Metacritic scraping → JSON with reviews → Feature extraction → ML models
 
 ### Machine Learning Pipeline
