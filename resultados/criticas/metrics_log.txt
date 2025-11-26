@@ -1,0 +1,131 @@
+================================================================================
+🎮 THE GAME AWARDS - ANÁLISE: CRITICAS
+📅 Executado em: 2025-11-08 11:05:49
+================================================================================
+
+📚 Anos de treinamento: 2014-2022
+🔮 Anos de teste: 2023, 2024
+
+================================================================================
+📊 DIVISÃO DOS DADOS
+================================================================================
+TREINO: 82 jogos
+  - Winners: 41
+  - Losers: 41
+TESTE: 12 jogos
+  - Winners: 2
+  - Losers: 10
+Features utilizadas: ['critic-mean', 'critic-stdev', 'critic-median', 'critic-mode', 'critic-percentile-25', 'critic-percentile-75']
+
+================================================================================
+📊 NAIVE BAYES
+================================================================================
+Accuracy: 0.5833 (58.33%)
+Precision: 0.2857 (28.57%)
+Recall: 1.0000 (100.00%)
+F1 Score: 0.4444 (44.44%)
+Matriz de confusão salva em: resultados/criticas/naive_bayes_confusion_matrix.png
+
+================================================================================
+📊 K-NEAREST NEIGHBORS
+================================================================================
+K = 15
+Accuracy: 0.5833 (58.33%)
+Precision: 0.2857 (28.57%)
+Recall: 1.0000 (100.00%)
+F1 Score: 0.4444 (44.44%)
+Matriz de confusão salva em: resultados/criticas/knn_confusion_matrix.png
+
+================================================================================
+📊 RANDOM FOREST
+================================================================================
+min_samples_leaf = 3
+Accuracy: 0.8333 (83.33%)
+Precision: 0.5000 (50.00%)
+Recall: 1.0000 (100.00%)
+F1 Score: 0.6667 (66.67%)
+Matriz de confusão salva em: resultados/criticas/random_forest_confusion_matrix.png
+
+================================================================================
+🎮 PREVISÕES DETALHADAS POR JOGO
+================================================================================
+
+🏆 Baldur's Gate 3
+   Real: Winner
+   Naive Bayes    : Winner ( 99.9% Winner) ✓
+   KNN            : Winner ( 86.7% Winner) ✓
+   Random Forest  : Winner ( 66.9% Winner) ✓
+
+   Alan Wake II
+   Real: Loser
+   Naive Bayes    : Loser  ( 23.2% Winner) ✓
+   KNN            : Loser  ( 46.7% Winner) ✓
+   Random Forest  : Loser  ( 22.4% Winner) ✓
+
+   The Legend of Zelda: Tears of the Kingdom
+   Real: Loser
+   Naive Bayes    : Winner ( 99.9% Winner) ✗
+   KNN            : Winner ( 86.7% Winner) ✗
+   Random Forest  : Winner ( 77.1% Winner) ✗
+
+   Marvel's Spider-Man 2
+   Real: Loser
+   Naive Bayes    : Loser  ( 21.0% Winner) ✓
+   KNN            : Loser  ( 33.3% Winner) ✓
+   Random Forest  : Loser  ( 15.8% Winner) ✓
+
+   Cyberpunk 2077
+   Real: Loser
+   Naive Bayes    : Loser  (  0.0% Winner) ✓
+   KNN            : Loser  ( 40.0% Winner) ✓
+   Random Forest  : Loser  ( 11.2% Winner) ✓
+
+   Hi-Fi Rush
+   Real: Loser
+   Naive Bayes    : Loser  ( 28.0% Winner) ✓
+   KNN            : Winner ( 53.3% Winner) ✗
+   Random Forest  : Loser  ( 24.9% Winner) ✓
+
+🏆 Astro Bot
+   Real: Winner
+   Naive Bayes    : Winner ( 96.4% Winner) ✓
+   KNN            : Winner ( 53.3% Winner) ✓
+   Random Forest  : Winner ( 63.8% Winner) ✓
+
+   Balatro
+   Real: Loser
+   Naive Bayes    : Winner ( 60.8% Winner) ✗
+   KNN            : Loser  ( 33.3% Winner) ✓
+   Random Forest  : Loser  ( 15.1% Winner) ✓
+
+   Black Myth: Wukong
+   Real: Loser
+   Naive Bayes    : Loser  (  0.0% Winner) ✓
+   KNN            : Loser  ( 26.7% Winner) ✓
+   Random Forest  : Loser  (  1.0% Winner) ✓
+
+   Elden Ring: Shadow of the Erdtree
+   Real: Loser
+   Naive Bayes    : Winner ( 96.0% Winner) ✗
+   KNN            : Winner ( 73.3% Winner) ✗
+   Random Forest  : Winner ( 61.5% Winner) ✗
+
+   Final Fantasy VII Rebirth
+   Real: Loser
+   Naive Bayes    : Winner ( 94.6% Winner) ✗
+   KNN            : Winner ( 66.7% Winner) ✗
+   Random Forest  : Loser  ( 47.3% Winner) ✓
+
+   Metaphor: ReFantazio
+   Real: Loser
+   Naive Bayes    : Winner ( 95.0% Winner) ✗
+   KNN            : Winner ( 66.7% Winner) ✗
+   Random Forest  : Loser  ( 48.0% Winner) ✓
+
+================================================================================
+📈 RESUMO COMPARATIVO
+================================================================================
+Naive Bayes  - Accuracy: 58.33%
+KNN          - Accuracy: 58.33%
+Random Forest- Accuracy: 83.33%
+================================================================================
