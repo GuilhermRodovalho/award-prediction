@@ -111,13 +111,22 @@ def generateTrainAndTestTemporal(opt, train_years, test_years, feature_type):
         movies = json.load(json_file)
 
     # Load 2024 data if testing Game Awards and 2024 is in test_years
-    if opt == "the_game_awards" and test_years and "2024" in test_years:
-        try:
-            with open("data/the_game_awards_2024_data.json", "r") as json_file_2024:
-                movies_2024 = json.load(json_file_2024)
-                movies.update(movies_2024)
-        except FileNotFoundError:
-            print("Warning: the_game_awards_2024_data.json not found")
+    if opt == "the_game_awards" and test_years:
+        if "2024" in test_years:
+            try:
+                with open("data/the_game_awards_2024_data.json", "r") as json_file_2024:
+                    movies_2024 = json.load(json_file_2024)
+                    movies.update(movies_2024)
+            except FileNotFoundError:
+                print("Warning: the_game_awards_2024_data.json not found")
+        
+        if "2025" in test_years:
+            try:
+                with open("data/the_game_awards_2025_data.json", "r") as json_file_2025:
+                    movies_2025 = json.load(json_file_2025)
+                    movies.update(movies_2025)
+            except FileNotFoundError:
+                print("Warning: the_game_awards_2025_data.json not found")
 
     # Store years before processing
     movie_years = {}
@@ -434,8 +443,8 @@ def predictFutureYearsComparative(opt, train_years, test_years, feature_type):
 
 if __name__ == "__main__":
     # Define years
-    train_years = [str(year) for year in range(2014, 2023)]  # 2014-2022
-    test_years = ['2023', '2024']
+    train_years = [str(year) for year in range(2014, 2024)]  # 2014-2023
+    test_years = ['2024', '2025']
 
     print("\n" + "=" * 80)
     print("🎮 THE GAME AWARDS - ANÁLISE COMPARATIVA")

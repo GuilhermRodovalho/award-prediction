@@ -1,128 +1,128 @@
 ================================================================================
 🎮 THE GAME AWARDS - ANÁLISE: PONDERADO_90_10
-📅 Executado em: 2025-11-08 11:05:52
+📅 Executado em: 2025-12-30 10:59:25
 ================================================================================
 
-📚 Anos de treinamento: 2014-2022
-🔮 Anos de teste: 2023, 2024
+📚 Anos de treinamento: 2014-2023
+🔮 Anos de teste: 2024, 2025
 
 ================================================================================
 📊 DIVISÃO DOS DADOS
 ================================================================================
-TREINO: 82 jogos
-  - Winners: 41
-  - Losers: 41
+TREINO: 92 jogos
+  - Winners: 46
+  - Losers: 46
 TESTE: 12 jogos
-  - Winners: 2
-  - Losers: 10
+  - Winners: 7
+  - Losers: 5
 Features utilizadas: ['critic-mean', 'critic-stdev', 'critic-median', 'critic-mode', 'critic-percentile-25', 'critic-percentile-75', 'user-mean', 'user-stdev', 'user-median', 'user-mode', 'user-percentile-25', 'user-percentile-75']
 
 ================================================================================
 📊 NAIVE BAYES
 ================================================================================
-Accuracy: 0.1667 (16.67%)
+Accuracy: 0.5833 (58.33%)
 Matriz de confusão salva em: resultados/ponderado_90_10/naive_bayes_confusion_matrix.png
 
 ================================================================================
 📊 K-NEAREST NEIGHBORS
 ================================================================================
 K = 15
-Accuracy: 0.5833 (58.33%)
-Precision: 0.2857 (28.57%)
-Recall: 1.0000 (100.00%)
-F1 Score: 0.4444 (44.44%)
+Accuracy: 0.4167 (41.67%)
+Precision: 0.5000 (50.00%)
+Recall: 0.4286 (42.86%)
+F1 Score: 0.4615 (46.15%)
 Matriz de confusão salva em: resultados/ponderado_90_10/knn_confusion_matrix.png
 
 ================================================================================
 📊 RANDOM FOREST
 ================================================================================
 min_samples_leaf = 3
-Accuracy: 0.9167 (91.67%)
-Precision: 0.6667 (66.67%)
-Recall: 1.0000 (100.00%)
-F1 Score: 0.8000 (80.00%)
+Accuracy: 0.5000 (50.00%)
+Precision: 1.0000 (100.00%)
+Recall: 0.1429 (14.29%)
+F1 Score: 0.2500 (25.00%)
 Matriz de confusão salva em: resultados/ponderado_90_10/random_forest_confusion_matrix.png
 
 ================================================================================
 🎮 PREVISÕES DETALHADAS POR JOGO
 ================================================================================
 
-🏆 Baldur's Gate 3
-   Real: Winner
-   Naive Bayes    : Winner (100.0% Winner) ✓
-   KNN            : Winner ( 80.0% Winner) ✓
-   Random Forest  : Winner ( 75.6% Winner) ✓
-
-   Alan Wake II
-   Real: Loser
-   Naive Bayes    : Winner (100.0% Winner) ✗
-   KNN            : Loser  ( 40.0% Winner) ✓
-   Random Forest  : Loser  ( 11.0% Winner) ✓
-
-   The Legend of Zelda: Tears of the Kingdom
-   Real: Loser
-   Naive Bayes    : Winner (100.0% Winner) ✗
-   KNN            : Winner ( 80.0% Winner) ✗
-   Random Forest  : Loser  ( 44.2% Winner) ✓
-
-   Marvel's Spider-Man 2
-   Real: Loser
-   Naive Bayes    : Winner (100.0% Winner) ✗
-   KNN            : Loser  ( 33.3% Winner) ✓
-   Random Forest  : Loser  (  7.2% Winner) ✓
-
-   Cyberpunk 2077
-   Real: Loser
-   Naive Bayes    : Winner ( 54.1% Winner) ✗
-   KNN            : Winner ( 53.3% Winner) ✗
-   Random Forest  : Loser  ( 39.0% Winner) ✓
-
-   Hi-Fi Rush
-   Real: Loser
-   Naive Bayes    : Winner (100.0% Winner) ✗
-   KNN            : Loser  ( 40.0% Winner) ✓
-   Random Forest  : Winner ( 74.2% Winner) ✗
-
 🏆 Astro Bot
    Real: Winner
    Naive Bayes    : Winner (100.0% Winner) ✓
    KNN            : Winner ( 53.3% Winner) ✓
-   Random Forest  : Winner ( 51.6% Winner) ✓
+   Random Forest  : Winner ( 65.1% Winner) ✓
 
    Balatro
    Real: Loser
    Naive Bayes    : Winner (100.0% Winner) ✗
    KNN            : Loser  ( 33.3% Winner) ✓
-   Random Forest  : Loser  ( 14.9% Winner) ✓
+   Random Forest  : Loser  ( 18.0% Winner) ✓
 
    Black Myth: Wukong
    Real: Loser
-   Naive Bayes    : Winner (100.0% Winner) ✗
+   Naive Bayes    : Winner ( 99.9% Winner) ✗
    KNN            : Loser  (  6.7% Winner) ✓
-   Random Forest  : Loser  (  2.0% Winner) ✓
+   Random Forest  : Loser  (  0.7% Winner) ✓
 
    Elden Ring: Shadow of the Erdtree
    Real: Loser
    Naive Bayes    : Winner (100.0% Winner) ✗
    KNN            : Winner ( 60.0% Winner) ✗
-   Random Forest  : Loser  ( 33.2% Winner) ✓
+   Random Forest  : Loser  ( 28.7% Winner) ✓
 
    Final Fantasy VII Rebirth
    Real: Loser
    Naive Bayes    : Winner (100.0% Winner) ✗
    KNN            : Winner ( 66.7% Winner) ✗
-   Random Forest  : Loser  ( 24.0% Winner) ✓
+   Random Forest  : Loser  ( 21.8% Winner) ✓
 
    Metaphor: ReFantazio
    Real: Loser
    Naive Bayes    : Winner (100.0% Winner) ✗
    KNN            : Winner ( 66.7% Winner) ✗
-   Random Forest  : Loser  ( 22.9% Winner) ✓
+   Random Forest  : Loser  ( 20.7% Winner) ✓
+
+🏆 Clair Obscur: Expedition 33
+   Real: Winner
+   Naive Bayes    : Winner (100.0% Winner) ✓
+   KNN            : Winner ( 60.0% Winner) ✓
+   Random Forest  : Loser  ( 48.1% Winner) ✗
+
+🏆 Death Stranding 2: On the beach
+   Real: Winner
+   Naive Bayes    : Winner (100.0% Winner) ✓
+   KNN            : Loser  ( 33.3% Winner) ✗
+   Random Forest  : Loser  ( 10.3% Winner) ✗
+
+🏆 Donkey Kong Bananza
+   Real: Winner
+   Naive Bayes    : Winner (100.0% Winner) ✓
+   KNN            : Loser  ( 33.3% Winner) ✗
+   Random Forest  : Loser  ( 30.9% Winner) ✗
+
+🏆 Hades 2
+   Real: Winner
+   Naive Bayes    : Winner (100.0% Winner) ✓
+   KNN            : Winner ( 60.0% Winner) ✓
+   Random Forest  : Loser  ( 32.1% Winner) ✗
+
+🏆 Hollow Knight: Silksong
+   Real: Winner
+   Naive Bayes    : Winner (100.0% Winner) ✓
+   KNN            : Loser  ( 13.3% Winner) ✗
+   Random Forest  : Loser  (  8.9% Winner) ✗
+
+🏆 Kingdom Come: Deliverance 2
+   Real: Winner
+   Naive Bayes    : Winner (100.0% Winner) ✓
+   KNN            : Loser  ( 33.3% Winner) ✗
+   Random Forest  : Loser  (  5.8% Winner) ✗
 
 ================================================================================
 📈 RESUMO COMPARATIVO
 ================================================================================
-Naive Bayes  - Accuracy: 16.67%
-KNN          - Accuracy: 58.33%
-Random Forest- Accuracy: 91.67%
+Naive Bayes  - Accuracy: 58.33%
+KNN          - Accuracy: 41.67%
+Random Forest- Accuracy: 50.00%
 ================================================================================
